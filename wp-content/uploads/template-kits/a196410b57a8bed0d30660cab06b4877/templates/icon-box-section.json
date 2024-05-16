@@ -1,0 +1,488 @@
+{
+    "version": "0.4",
+    "title": "Icon Box Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "564ea0fc",
+            "settings": {
+                "structure": "30",
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "32752b32",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "37a9f1c8",
+                            "settings": {
+                                "ekit_icon_box_title_text": "Online Counseling",
+                                "ekit_icon_box_description_text": "Lorem ipsum dolor sit amet, sectet\nadipiscing elit, sed do mod tempor \nincididunt ut labore dolore.",
+                                "ekit_icon_box_enable_btn": "yes",
+                                "ekit_icon_box_enable_hover_btn": "",
+                                "ekit_icon_box_btn_text": "Learn More",
+                                "ekit_icon_box_icons": {
+                                    "value": "icon icon-arrow-right",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_icon_box_icon_align": "right",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_box_text_align_responsive": "left",
+                                "ekit_icon_box_text_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_btn_background_group_background": "classic",
+                                "ekit_icon_box_btn_background_group_color": "#02010100",
+                                "__globals__": {
+                                    "ekit_icon_title_typography_group_typography": "globals\/typography?id=117016f",
+                                    "ekit_icon_box_button_text_color": "globals\/colors?id=secondary",
+                                    "ekit_icon_box_typography_group_typography": "globals\/typography?id=6caf69c",
+                                    "ekit_icon_box_btn_hover_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_icon_box_iocnbox_border_group_color": "globals\/colors?id=8ed0d9b"
+                                },
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/online-education-icons-7G7MVE-1.png",
+                                    "id": 253,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.2)"
+                                },
+                                "ekit_icon_box_infobox_border_radious": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": 15
+                                },
+                                "ekit_icon_box_icon_space": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_bg_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "20",
+                                    "bottom": "30",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_bg_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.2)"
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "26fd6b8b",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "1383691b",
+                            "settings": {
+                                "ekit_icon_box_title_text": "Audio Course",
+                                "ekit_icon_box_description_text": "Lorem ipsum dolor sit amet, sectet\nadipiscing elit, sed do mod tempor \nincididunt ut labore dolore.",
+                                "ekit_icon_box_enable_btn": "yes",
+                                "ekit_icon_box_enable_hover_btn": "",
+                                "ekit_icon_box_btn_text": "Learn More",
+                                "ekit_icon_box_icons": {
+                                    "value": "icon icon-arrow-right",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_icon_box_icon_align": "right",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_box_text_align_responsive": "left",
+                                "ekit_icon_box_text_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_btn_background_group_background": "classic",
+                                "ekit_icon_box_btn_background_group_color": "#02010100",
+                                "__globals__": {
+                                    "ekit_icon_title_typography_group_typography": "globals\/typography?id=117016f",
+                                    "ekit_icon_box_button_text_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_icon_box_typography_group_typography": "globals\/typography?id=6caf69c",
+                                    "ekit_icon_box_btn_hover_color": "globals\/colors?id=secondary",
+                                    "ekit_icon_box_icon_box_border_hv_group_color": "",
+                                    "ekit_icon_box_iocnbox_border_group_color": "globals\/colors?id=0ab5842"
+                                },
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/online-education-icons-7G7MVE-2.png",
+                                    "id": 254,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(238.99999999999997, 86.99999999999999, 66.99999999999997, 0.2)"
+                                },
+                                "ekit_icon_box_infobox_border_radious": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": 15
+                                },
+                                "ekit_icon_box_icon_space": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_bg_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "20",
+                                    "bottom": "30",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_bg_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_iocnbox_border_group_color": "#FFF1E7",
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(238.99999999999997, 86.99999999999999, 66.99999999999997, 0.2)"
+                                },
+                                "ekit_icon_box_icon_box_border_hv_group_border": "solid",
+                                "ekit_icon_box_icon_box_border_hv_group_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_typography_group_typography": "custom",
+                                "ekit_icon_title_typography_group_font_family": "Noto Sans HK",
+                                "ekit_icon_title_typography_group_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "ekit_icon_title_typography_group_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "ekit_icon_title_typography_group_font_weight": "700",
+                                "ekit_icon_title_typography_group_line_height": {
+                                    "unit": "em",
+                                    "size": 1.399999999999999911182158029987476766109466552734375,
+                                    "sizes": []
+                                },
+                                "ekit_icon_title_typography_group_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_icon_box_typography_group_typography": "custom",
+                                "ekit_icon_box_typography_group_font_family": "Noto Sans HK",
+                                "ekit_icon_box_typography_group_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_icon_box_typography_group_font_weight": "400",
+                                "ekit_icon_box_typography_group_line_height": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_icon_box_typography_group_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_icon_box_button_text_color": "#EF5743",
+                                "ekit_icon_box_btn_hover_color": "#1DA678",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 100
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "1593e529",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "3def1bea",
+                            "settings": {
+                                "ekit_icon_box_title_text": "Professional Training",
+                                "ekit_icon_box_description_text": "Lorem ipsum dolor sit amet, sectet\nadipiscing elit, sed do mod tempor \nincididunt ut labore dolore.",
+                                "ekit_icon_box_enable_btn": "yes",
+                                "ekit_icon_box_enable_hover_btn": "",
+                                "ekit_icon_box_btn_text": "Learn More",
+                                "ekit_icon_box_icons": {
+                                    "value": "icon icon-arrow-right",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_icon_box_icon_align": "right",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_box_text_align_responsive": "left",
+                                "ekit_icon_box_text_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_btn_background_group_background": "classic",
+                                "ekit_icon_box_btn_background_group_color": "#02010100",
+                                "__globals__": {
+                                    "ekit_icon_title_typography_group_typography": "globals\/typography?id=117016f",
+                                    "ekit_icon_box_button_text_color": "globals\/colors?id=secondary",
+                                    "ekit_icon_box_typography_group_typography": "globals\/typography?id=6caf69c",
+                                    "ekit_icon_box_btn_hover_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_icon_box_iocnbox_border_group_color": "globals\/colors?id=8ed0d9b"
+                                },
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/online-education-icons-7G7MVE-3.png",
+                                    "id": 255,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.2)"
+                                },
+                                "ekit_icon_box_infobox_border_radious": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": 15
+                                },
+                                "ekit_icon_box_icon_space": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_bg_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "20",
+                                    "bottom": "30",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_bg_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.2)"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 200
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

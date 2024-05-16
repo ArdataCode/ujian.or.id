@@ -1,0 +1,645 @@
+{
+    "version": "0.4",
+    "title": "Team Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-team",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "417a4a4a",
+            "settings": {
+                "content_position": "middle",
+                "background_background": "classic",
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "95",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=e72a208"
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "30",
+                    "bottom": "60",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "30",
+                    "bottom": "10",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2ec9426a",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "25",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "b9bbf96",
+                            "settings": {
+                                "ekit_heading_title": "Our Expert {{Instructors}}",
+                                "ekit_heading_sub_title": "Time has changed",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "ekit_heading_focused_title_color": "#1DA678",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=9afde37",
+                                    "ekit_heading_title_color": "globals\/colors?id=primary",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=9afde37"
+                                },
+                                "ekit_heading_title_align": "text_center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "38abb884",
+                            "settings": {
+                                "structure": "30",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "25a997bc",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "animation": "fadeInUp",
+                                        "animation_delay": 100
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7d1e8247",
+                                            "settings": {
+                                                "ekit_team_style": "overlay",
+                                                "ekit_team_image": {
+                                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/confident-businessman-6R4AN52.jpg",
+                                                    "id": 912,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "ekit_team_thumbnail_size": "full",
+                                                "ekit_team_name": "Jane Cooper",
+                                                "ekit_team_position": "Professor",
+                                                "ekit_team_show_short_description": "",
+                                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_social_icons": [
+                                                    {
+                                                        "ekit_team_label": "Facebook",
+                                                        "_id": "c590cf0",
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=d7fcd19",
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=1ad8f47",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=d7fcd19"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Twitter",
+                                                        "ekit_team_icons": {
+                                                            "value": "icon icon-twitter",
+                                                            "library": "ekiticons"
+                                                        },
+                                                        "ekit_team_socialmedia_icon_hover_bg_color": "#1da1f2",
+                                                        "_id": "86c9991",
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=1ad8f47",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=d7fcd19",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=d7fcd19"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Pinterest",
+                                                        "ekit_team_icons": {
+                                                            "value": "icon icon-pinterest",
+                                                            "library": "ekiticons"
+                                                        },
+                                                        "ekit_team_socialmedia_icon_hover_bg_color": "#e60023",
+                                                        "_id": "41b5724",
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=1ad8f47",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=d7fcd19",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=d7fcd19"
+                                                        }
+                                                    }
+                                                ],
+                                                "ekit_team_chose_popup": "",
+                                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_phone": "+1 (859) 254-6589",
+                                                "ekit_team_email": "info@example.com",
+                                                "ekit_team_background_content_hover_background": "classic",
+                                                "ekit_team_content_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "20",
+                                                    "left": "20",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_team_image_radius": {
+                                                    "unit": "%",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "20",
+                                                    "left": "20",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_team_name_margin": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "ekit_team_position_color": "",
+                                                    "ekit_team_background_content_normal_color": "globals\/colors?id=1ad8f47",
+                                                    "ekit_team_background_content_hover_color": "globals\/colors?id=1ad8f47",
+                                                    "ekit_team_name_typography_typography": "globals\/typography?id=117016f",
+                                                    "ekit_team_position_typography_typography": "globals\/typography?id=639428c"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-team",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4cdfca85",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_9.png",
+                                                    "id": 472,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "_element_width": "auto",
+                                                "_position": "absolute",
+                                                "_offset_x": {
+                                                    "unit": "px",
+                                                    "size": -200,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "rotateInDownLeft",
+                                                "_animation_delay": 300,
+                                                "hide_tablet": "hidden-tablet",
+                                                "hide_mobile": "hidden-mobile",
+                                                "_offset_x_tablet": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "57d3509c",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_10.png",
+                                                    "id": 471,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "_element_width": "auto",
+                                                "_position": "absolute",
+                                                "_offset_x": {
+                                                    "unit": "px",
+                                                    "size": -350,
+                                                    "sizes": []
+                                                },
+                                                "_offset_orientation_v": "end",
+                                                "_animation": "rotateInDownLeft",
+                                                "_animation_delay": 300,
+                                                "hide_tablet": "hidden-tablet",
+                                                "hide_mobile": "hidden-mobile",
+                                                "_offset_x_tablet": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "421ad3f3",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "animation": "fadeInUp",
+                                        "animation_delay": 200
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "570b444c",
+                                            "settings": {
+                                                "ekit_team_style": "overlay",
+                                                "ekit_team_image": {
+                                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/education-women-and-lifestyle-concept-attractive-a-VY6PRCD_team.jpg",
+                                                    "id": 920,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "ekit_team_thumbnail_size": "full",
+                                                "ekit_team_name": "Martin Scorsese",
+                                                "ekit_team_position": "Trainer",
+                                                "ekit_team_show_short_description": "",
+                                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_social_icons": [
+                                                    {
+                                                        "ekit_team_label": "Facebook",
+                                                        "_id": "c590cf0",
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=d7fcd19",
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=d7fcd19"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Twitter",
+                                                        "ekit_team_icons": {
+                                                            "value": "icon icon-twitter",
+                                                            "library": "ekiticons"
+                                                        },
+                                                        "ekit_team_socialmedia_icon_hover_bg_color": "#1da1f2",
+                                                        "_id": "86c9991",
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=d7fcd19",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=d7fcd19"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Pinterest",
+                                                        "ekit_team_icons": {
+                                                            "value": "icon icon-pinterest",
+                                                            "library": "ekiticons"
+                                                        },
+                                                        "ekit_team_socialmedia_icon_hover_bg_color": "#e60023",
+                                                        "_id": "41b5724",
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=secondary",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=d7fcd19",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=d7fcd19"
+                                                        }
+                                                    }
+                                                ],
+                                                "ekit_team_chose_popup": "",
+                                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_phone": "+1 (859) 254-6589",
+                                                "ekit_team_email": "info@example.com",
+                                                "ekit_team_background_content_hover_background": "classic",
+                                                "ekit_team_content_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "20",
+                                                    "left": "20",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_team_image_radius": {
+                                                    "unit": "%",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "20",
+                                                    "left": "20",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_team_name_margin": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "ekit_team_position_color": "",
+                                                    "ekit_team_background_content_normal_color": "globals\/colors?id=1ad8f47",
+                                                    "ekit_team_background_content_hover_color": "globals\/colors?id=secondary",
+                                                    "ekit_team_name_typography_typography": "globals\/typography?id=117016f",
+                                                    "ekit_team_position_typography_typography": "globals\/typography?id=639428c"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "313ca5ef",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "animation": "fadeInUp",
+                                        "animation_delay": 300
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "29fb96e1",
+                                            "settings": {
+                                                "ekit_team_style": "overlay",
+                                                "ekit_team_image": {
+                                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/handsome-man-at-home-6FC7GVM.jpg",
+                                                    "id": 921,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "ekit_team_thumbnail_size": "full",
+                                                "ekit_team_name": "deGrass Tyson",
+                                                "ekit_team_position": "Instructor",
+                                                "ekit_team_show_short_description": "",
+                                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_social_icons": [
+                                                    {
+                                                        "ekit_team_label": "Facebook",
+                                                        "_id": "c590cf0",
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=d7fcd19",
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=781f24d",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=d7fcd19"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Twitter",
+                                                        "ekit_team_icons": {
+                                                            "value": "icon icon-twitter",
+                                                            "library": "ekiticons"
+                                                        },
+                                                        "ekit_team_socialmedia_icon_hover_bg_color": "#1da1f2",
+                                                        "_id": "86c9991",
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=781f24d",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=d7fcd19",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=d7fcd19"
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_team_label": "Pinterest",
+                                                        "ekit_team_icons": {
+                                                            "value": "icon icon-pinterest",
+                                                            "library": "ekiticons"
+                                                        },
+                                                        "ekit_team_socialmedia_icon_hover_bg_color": "#e60023",
+                                                        "_id": "41b5724",
+                                                        "__globals__": {
+                                                            "ekit_team_socialmedia_icon_color": "globals\/colors?id=781f24d",
+                                                            "ekit_team_socialmedia_icon_bg_color": "globals\/colors?id=d7fcd19",
+                                                            "ekit_team_socialmedia_icon_hover_color": "globals\/colors?id=d7fcd19"
+                                                        }
+                                                    }
+                                                ],
+                                                "ekit_team_chose_popup": "",
+                                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                                "ekit_team_phone": "+1 (859) 254-6589",
+                                                "ekit_team_email": "info@example.com",
+                                                "ekit_team_background_content_hover_background": "classic",
+                                                "ekit_team_content_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "20",
+                                                    "left": "20",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_team_image_radius": {
+                                                    "unit": "%",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "20",
+                                                    "left": "20",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_team_name_margin": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "ekit_team_position_color": "",
+                                                    "ekit_team_background_content_normal_color": "globals\/colors?id=1ad8f47",
+                                                    "ekit_team_background_content_hover_color": "globals\/colors?id=781f24d",
+                                                    "ekit_team_name_typography_typography": "globals\/typography?id=117016f",
+                                                    "ekit_team_position_typography_typography": "globals\/typography?id=639428c"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-team",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4eb055f5",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_11.png",
+                                                    "id": 470,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "_element_width": "auto",
+                                                "_position": "absolute",
+                                                "_offset_orientation_h": "end",
+                                                "_offset_x": {
+                                                    "unit": "px",
+                                                    "size": -350,
+                                                    "sizes": []
+                                                },
+                                                "_offset_x_end": {
+                                                    "unit": "px",
+                                                    "size": -200,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "rotateIn",
+                                                "_animation_delay": 300,
+                                                "hide_tablet": "hidden-tablet",
+                                                "hide_mobile": "hidden-mobile",
+                                                "_offset_x_end_tablet": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "24d16bb6",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_7.png",
+                                                    "id": 359,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "_element_width": "auto",
+                                                "_position": "absolute",
+                                                "_offset_orientation_h": "end",
+                                                "_offset_x": {
+                                                    "unit": "px",
+                                                    "size": -350,
+                                                    "sizes": []
+                                                },
+                                                "_offset_x_end": {
+                                                    "unit": "px",
+                                                    "size": -300,
+                                                    "sizes": []
+                                                },
+                                                "_offset_y": {
+                                                    "unit": "px",
+                                                    "size": 200,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "zoomIn",
+                                                "_animation_delay": 300,
+                                                "hide_tablet": "hidden-tablet",
+                                                "hide_mobile": "hidden-mobile",
+                                                "_offset_x_end_tablet": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6a1234aa",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_12.png",
+                                                    "id": 469,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "_element_width": "auto",
+                                                "_position": "absolute",
+                                                "_offset_orientation_h": "end",
+                                                "_offset_x": {
+                                                    "unit": "px",
+                                                    "size": -350,
+                                                    "sizes": []
+                                                },
+                                                "_offset_x_end": {
+                                                    "unit": "px",
+                                                    "size": -200,
+                                                    "sizes": []
+                                                },
+                                                "_offset_orientation_v": "end",
+                                                "_animation": "rotateInDownRight",
+                                                "_animation_delay": 300,
+                                                "hide_tablet": "hidden-tablet",
+                                                "hide_mobile": "hidden-mobile",
+                                                "_offset_x_end_tablet": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

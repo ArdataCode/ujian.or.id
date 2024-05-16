@@ -1,0 +1,3245 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Learen - E-Learning & Online Courses Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kinforce.net\/learen",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Courses",
+            "screenshot": "screenshots\/courses.jpg",
+            "source": "templates\/courses.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/courses\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Instructors",
+            "screenshot": "screenshots\/instructors.jpg",
+            "source": "templates\/instructors.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/instructors\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Section",
+            "screenshot": "screenshots\/footer-section.jpg",
+            "source": "templates\/footer-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/footer-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Icon Box Section 2",
+            "screenshot": "screenshots\/icon-box-section-2.jpg",
+            "source": "templates\/icon-box-section-2.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/icon-box-section-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Icon Box Section",
+            "screenshot": "screenshots\/icon-box-section.jpg",
+            "source": "templates\/icon-box-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/icon-box-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Section",
+            "screenshot": "screenshots\/about-section.jpg",
+            "source": "templates\/about-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/about-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Featured Categories Section",
+            "screenshot": "screenshots\/featured-categories-section.jpg",
+            "source": "templates\/featured-categories-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/featured-categories-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Course Section",
+            "screenshot": "screenshots\/course-section.jpg",
+            "source": "templates\/course-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/course-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials Section",
+            "screenshot": "screenshots\/testimonials-section.jpg",
+            "source": "templates\/testimonials-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/testimonials-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Video Content Section",
+            "screenshot": "screenshots\/video-content-section.jpg",
+            "source": "templates\/video-content-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/video-content-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Booking Form Section",
+            "screenshot": "screenshots\/booking-form-section.jpg",
+            "source": "templates\/booking-form-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/booking-form-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Fun Facts Section",
+            "screenshot": "screenshots\/fun-facts-section.jpg",
+            "source": "templates\/fun-facts-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/fun-facts-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Course List Section",
+            "screenshot": "screenshots\/course-list-section.jpg",
+            "source": "templates\/course-list-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/course-list-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Clients Section",
+            "screenshot": "screenshots\/clients-section.jpg",
+            "source": "templates\/clients-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/clients-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-clients",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Why Choose Us Section",
+            "screenshot": "screenshots\/why-choose-us-section.jpg",
+            "source": "templates\/why-choose-us-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/why-choose-us-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team Section",
+            "screenshot": "screenshots\/team-section.jpg",
+            "source": "templates\/team-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/team-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Course Video Section",
+            "screenshot": "screenshots\/course-video-section.jpg",
+            "source": "templates\/course-video-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/course-video-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Latest News Section",
+            "screenshot": "screenshots\/latest-news-section.jpg",
+            "source": "templates\/latest-news-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/latest-news-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Section",
+            "screenshot": "screenshots\/pricing-section.jpg",
+            "source": "templates\/pricing-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/pricing-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform \u2013 Booking Form",
+            "screenshot": "screenshots\/metform-booking-form.jpg",
+            "source": "templates\/metform-booking-form.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/metform-booking-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform \u2013 Contact Form",
+            "screenshot": "screenshots\/metform-contact-form.jpg",
+            "source": "templates\/metform-contact-form.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/metform-contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Hero Image Section 2",
+            "screenshot": "screenshots\/hero-image-section-2.jpg",
+            "source": "templates\/hero-image-section-2.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/hero-image-section-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Hero Image Section",
+            "screenshot": "screenshots\/hero-image-section.jpg",
+            "source": "templates\/hero-image-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/hero-image-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Section",
+            "screenshot": "screenshots\/header-section.jpg",
+            "source": "templates\/header-section.json",
+            "preview_url": "https:\/\/kinforce.net\/learen\/template-kit\/header-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.10.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "The Plus Addons for Elementor",
+            "version": "5.1.16",
+            "file": "the-plus-addons-for-elementor-page-builder\/theplus_elementor_addon.php",
+            "author": "POSIMYTH"
+        }
+    ],
+    "images": [
+        {
+            "filename": "particles_3.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/hero-image-section-2.json",
+                    "name": "Hero Image Section 2"
+                },
+                {
+                    "source": "templates\/hero-image-section.json",
+                    "name": "Hero Image Section"
+                }
+            ],
+            "filesize": 1620,
+            "dimensions": [
+                88,
+                72
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "particles_2.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/hero-image-section-2.json",
+                    "name": "Hero Image Section 2"
+                },
+                {
+                    "source": "templates\/hero-image-section.json",
+                    "name": "Hero Image Section"
+                }
+            ],
+            "filesize": 2314,
+            "dimensions": [
+                59,
+                59
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "particles_1.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/hero-image-section-2.json",
+                    "name": "Hero Image Section 2"
+                },
+                {
+                    "source": "templates\/hero-image-section.json",
+                    "name": "Hero Image Section"
+                }
+            ],
+            "filesize": 3010,
+            "dimensions": [
+                131,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-successful-chemistry-teacher-in-casualwear-s-GWTLZWZ.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/young-successful-chemistry-teacher-in-casualwear-s-GWTLZWZ-800x614.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/hero-image-section.json",
+                    "name": "Hero Image Section"
+                }
+            ],
+            "filesize": 184335,
+            "dimensions": [
+                975,
+                748
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "online-education-icons-7G7MVE-1.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/online-education-icons-7G7MVE-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/icon-box-section-2.json",
+                    "name": "Icon Box Section 2"
+                },
+                {
+                    "source": "templates\/icon-box-section.json",
+                    "name": "Icon Box Section"
+                }
+            ],
+            "filesize": 1435,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "online-education-icons-7G7MVE-2.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/online-education-icons-7G7MVE-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/icon-box-section.json",
+                    "name": "Icon Box Section"
+                },
+                {
+                    "source": "templates\/booking-form-section.json",
+                    "name": "Booking Form Section"
+                }
+            ],
+            "filesize": 1948,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "online-education-icons-7G7MVE-3.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/online-education-icons-7G7MVE-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/icon-box-section-2.json",
+                    "name": "Icon Box Section 2"
+                },
+                {
+                    "source": "templates\/icon-box-section.json",
+                    "name": "Icon Box Section"
+                }
+            ],
+            "filesize": 1516,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "image-1.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/image-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-section.json",
+                    "name": "About Section"
+                }
+            ],
+            "filesize": 121883,
+            "dimensions": [
+                578,
+                693
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "particles_4.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/featured-categories-section.json",
+                    "name": "Featured Categories Section"
+                }
+            ],
+            "filesize": 2503,
+            "dimensions": [
+                96,
+                86
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "particles_6.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/featured-categories-section.json",
+                    "name": "Featured Categories Section"
+                }
+            ],
+            "filesize": 4368,
+            "dimensions": [
+                95,
+                75
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "online-education-icons-7G7MVE-4.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/online-education-icons-7G7MVE-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/featured-categories-section.json",
+                    "name": "Featured Categories Section"
+                }
+            ],
+            "filesize": 1082,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "particles_5.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/featured-categories-section.json",
+                    "name": "Featured Categories Section"
+                },
+                {
+                    "source": "templates\/booking-form-section.json",
+                    "name": "Booking Form Section"
+                }
+            ],
+            "filesize": 6331,
+            "dimensions": [
+                136,
+                98
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "online-education-icons-7G7MVE-5.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/online-education-icons-7G7MVE-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/icon-box-section-2.json",
+                    "name": "Icon Box Section 2"
+                },
+                {
+                    "source": "templates\/featured-categories-section.json",
+                    "name": "Featured Categories Section"
+                }
+            ],
+            "filesize": 1587,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "online-education-icons-7G7MVE-6.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/online-education-icons-7G7MVE-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/featured-categories-section.json",
+                    "name": "Featured Categories Section"
+                }
+            ],
+            "filesize": 1720,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "online-education-icons-7G7MVE-7.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/online-education-icons-7G7MVE-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/featured-categories-section.json",
+                    "name": "Featured Categories Section"
+                }
+            ],
+            "filesize": 1793,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "particles_8.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_8.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/featured-categories-section.json",
+                    "name": "Featured Categories Section"
+                }
+            ],
+            "filesize": 1781,
+            "dimensions": [
+                132,
+                138
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "particles_7.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/featured-categories-section.json",
+                    "name": "Featured Categories Section"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                },
+                {
+                    "source": "templates\/booking-form-section.json",
+                    "name": "Booking Form Section"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 1957,
+            "dimensions": [
+                57,
+                57
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "creative-brainstorming-happy-business-people-desig-G2UPFTK.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/creative-brainstorming-happy-business-people-desig-G2UPFTK.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-section.json",
+                    "name": "Course Section"
+                }
+            ],
+            "filesize": 188306,
+            "dimensions": [
+                750,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "young-teacher-at-school-U2UNGYB.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/young-teacher-at-school-U2UNGYB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-section.json",
+                    "name": "Course Section"
+                },
+                {
+                    "source": "templates\/course-list-section.json",
+                    "name": "Course List Section"
+                }
+            ],
+            "filesize": 4920,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "coding-web-game-at-home-V3L73RC.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/coding-web-game-at-home-V3L73RC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/course-section.json",
+                    "name": "Course Section"
+                }
+            ],
+            "filesize": 100797,
+            "dimensions": [
+                750,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "portrait-of-a-confident-young-businessman-with-han-VC5ZTQW.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/portrait-of-a-confident-young-businessman-with-han-VC5ZTQW.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-section.json",
+                    "name": "Course Section"
+                },
+                {
+                    "source": "templates\/course-list-section.json",
+                    "name": "Course List Section"
+                },
+                {
+                    "source": "templates\/course-video-section.json",
+                    "name": "Course Video Section"
+                }
+            ],
+            "filesize": 3996,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "group-of-cheerful-young-women-studying-together-KSM8FHZ.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/group-of-cheerful-young-women-studying-together-KSM8FHZ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/course-section.json",
+                    "name": "Course Section"
+                }
+            ],
+            "filesize": 63294,
+            "dimensions": [
+                750,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "teacher-teaching-kids-on-digital-tablet-SBBGJMJ.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/teacher-teaching-kids-on-digital-tablet-SBBGJMJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-section.json",
+                    "name": "Course Section"
+                },
+                {
+                    "source": "templates\/course-list-section.json",
+                    "name": "Course List Section"
+                },
+                {
+                    "source": "templates\/course-video-section.json",
+                    "name": "Course Video Section"
+                }
+            ],
+            "filesize": 4146,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "modern-devices-for-remote-lesson-with-class-social-9WGAYKJ.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/modern-devices-for-remote-lesson-with-class-social-9WGAYKJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/course-section.json",
+                    "name": "Course Section"
+                }
+            ],
+            "filesize": 51848,
+            "dimensions": [
+                750,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "small-business-owners-startup-and-e-commerce-conce-83S5W35.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/small-business-owners-startup-and-e-commerce-conce-83S5W35.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/course-section.json",
+                    "name": "Course Section"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                },
+                {
+                    "source": "templates\/course-list-section.json",
+                    "name": "Course List Section"
+                }
+            ],
+            "filesize": 4248,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "the-latest-study-material-is-available-online-KGXC4FD.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/the-latest-study-material-is-available-online-KGXC4FD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/course-section.json",
+                    "name": "Course Section"
+                }
+            ],
+            "filesize": 57519,
+            "dimensions": [
+                750,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "young-woman-doing-web-meeting-using-mirrorless-cam-7CTA9CH.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/young-woman-doing-web-meeting-using-mirrorless-cam-7CTA9CH.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/course-section.json",
+                    "name": "Course Section"
+                }
+            ],
+            "filesize": 71892,
+            "dimensions": [
+                750,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "optimistic-positive-handsome-bearded-man-FXXXGY4.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/optimistic-positive-handsome-bearded-man-FXXXGY4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/course-section.json",
+                    "name": "Course Section"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                },
+                {
+                    "source": "templates\/course-list-section.json",
+                    "name": "Course List Section"
+                }
+            ],
+            "filesize": 3990,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "confident-students-WK4JZTX.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/confident-students-WK4JZTX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                }
+            ],
+            "filesize": 39473,
+            "dimensions": [
+                461,
+                464
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "particles_9.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_9.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 3016,
+            "dimensions": [
+                68,
+                76
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "particles_10.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_10.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 5713,
+            "dimensions": [
+                272,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "education-women-and-lifestyle-concept-attractive-a-VY6PRCD.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/education-women-and-lifestyle-concept-attractive-a-VY6PRCD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                }
+            ],
+            "filesize": 4646,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "particles_11.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_11.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                },
+                {
+                    "source": "templates\/booking-form-section.json",
+                    "name": "Booking Form Section"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 1400,
+            "dimensions": [
+                30,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "particles_12.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_12.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 2691,
+            "dimensions": [
+                88,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "people-international-friendship-leisure-modern-tec-JWASYGE.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/people-international-friendship-leisure-modern-tec-JWASYGE.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/video-content-section.json",
+                    "name": "Video Content Section"
+                },
+                {
+                    "source": "templates\/booking-form-section.json",
+                    "name": "Booking Form Section"
+                }
+            ],
+            "filesize": 52033,
+            "dimensions": [
+                604,
+                513
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "particles_13.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_13.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/booking-form-section.json",
+                    "name": "Booking Form Section"
+                }
+            ],
+            "filesize": 4433,
+            "dimensions": [
+                88,
+                93
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "particles_15.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_15.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/booking-form-section.json",
+                    "name": "Booking Form Section"
+                }
+            ],
+            "filesize": 4085,
+            "dimensions": [
+                204,
+                157
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "particles_14.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_14.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/booking-form-section.json",
+                    "name": "Booking Form Section"
+                }
+            ],
+            "filesize": 3098,
+            "dimensions": [
+                83,
+                49
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "flat-design-book-logo-pack.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/flat-design-book-logo-pack.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/footer-section.json",
+                    "name": "Footer Section"
+                },
+                {
+                    "source": "templates\/header-section.json",
+                    "name": "Header Section"
+                }
+            ],
+            "filesize": 3040,
+            "dimensions": [
+                141,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "contemporary-education-by-sweet-teenager-at-home-R2EC3UW.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/contemporary-education-by-sweet-teenager-at-home-R2EC3UW-800x780.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/hero-image-section-2.json",
+                    "name": "Hero Image Section 2"
+                }
+            ],
+            "filesize": 123876,
+            "dimensions": [
+                1400,
+                1365
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "online-education-icons-7G7MVE-8.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/online-education-icons-7G7MVE-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/fun-facts-section.json",
+                    "name": "Fun Facts Section"
+                }
+            ],
+            "filesize": 2703,
+            "dimensions": [
+                95,
+                95
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "online-education-icons-7G7MVE-9.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/online-education-icons-7G7MVE-9.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/fun-facts-section.json",
+                    "name": "Fun Facts Section"
+                }
+            ],
+            "filesize": 2395,
+            "dimensions": [
+                95,
+                95
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "online-education-icons-7G7MVE-10.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/online-education-icons-7G7MVE-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/fun-facts-section.json",
+                    "name": "Fun Facts Section"
+                }
+            ],
+            "filesize": 2118,
+            "dimensions": [
+                95,
+                95
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "creative-brainstorming-happy-business-people-desig-G2UPFTK_list.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/creative-brainstorming-happy-business-people-desig-G2UPFTK_list.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/course-list-section.json",
+                    "name": "Course List Section"
+                }
+            ],
+            "filesize": 109389,
+            "dimensions": [
+                750,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "coding-web-game-at-home-V3L73RC_list.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/coding-web-game-at-home-V3L73RC_list.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/course-list-section.json",
+                    "name": "Course List Section"
+                }
+            ],
+            "filesize": 71535,
+            "dimensions": [
+                750,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "group-of-cheerful-young-women-studying-together-KSM8FHZ_list.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/group-of-cheerful-young-women-studying-together-KSM8FHZ_list.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/course-list-section.json",
+                    "name": "Course List Section"
+                }
+            ],
+            "filesize": 55641,
+            "dimensions": [
+                750,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "modern-devices-for-remote-lesson-with-class-social-9WGAYKJ_list.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/modern-devices-for-remote-lesson-with-class-social-9WGAYKJ_list.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/course-list-section.json",
+                    "name": "Course List Section"
+                }
+            ],
+            "filesize": 43278,
+            "dimensions": [
+                750,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "the-latest-study-material-is-available-online-KGXC4FD_list.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/the-latest-study-material-is-available-online-KGXC4FD_list.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/course-list-section.json",
+                    "name": "Course List Section"
+                }
+            ],
+            "filesize": 52242,
+            "dimensions": [
+                750,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "motivated-cheerful-and-glad-pleasant-caucasian-adu-M6NJPEF.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/motivated-cheerful-and-glad-pleasant-caucasian-adu-M6NJPEF.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-list-section.json",
+                    "name": "Course List Section"
+                },
+                {
+                    "source": "templates\/course-video-section.json",
+                    "name": "Course Video Section"
+                }
+            ],
+            "filesize": 4426,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "young-woman-doing-web-meeting-using-mirrorless-cam-7CTA9CH_list.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/young-woman-doing-web-meeting-using-mirrorless-cam-7CTA9CH_list.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/course-list-section.json",
+                    "name": "Course List Section"
+                }
+            ],
+            "filesize": 57933,
+            "dimensions": [
+                750,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "elegant-company-logo-VVLG4M3_1.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1488,
+            "dimensions": [
+                200,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "elegant-company-logo-VVLG4M3_1_hover.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_1_hover.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1491,
+            "dimensions": [
+                200,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "elegant-company-logo-VVLG4M3_2.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1185,
+            "dimensions": [
+                200,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "elegant-company-logo-VVLG4M3_2_hover.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_2_hover.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1221,
+            "dimensions": [
+                200,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "elegant-company-logo-VVLG4M3_3.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 2097,
+            "dimensions": [
+                200,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "elegant-company-logo-VVLG4M3_3_hover.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_3_hover.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 2102,
+            "dimensions": [
+                200,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "elegant-company-logo-VVLG4M3_4.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1222,
+            "dimensions": [
+                200,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "elegant-company-logo-VVLG4M3_4_hover.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_4_hover.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1231,
+            "dimensions": [
+                200,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "elegant-company-logo-VVLG4M3_5.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1037,
+            "dimensions": [
+                200,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "elegant-company-logo-VVLG4M3_5_hover.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_5_hover.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1048,
+            "dimensions": [
+                200,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "elegant-company-logo-VVLG4M3_6.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 876,
+            "dimensions": [
+                200,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "elegant-company-logo-VVLG4M3_6_hover.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_6_hover.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 876,
+            "dimensions": [
+                200,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "image-of-cheerful-woman-working-with-laptop-while.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/image-of-cheerful-woman-working-with-laptop-while.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/why-choose-us-section.json",
+                    "name": "Why Choose Us Section"
+                }
+            ],
+            "filesize": 50040,
+            "dimensions": [
+                750,
+                674
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "confident-businessman-6R4AN52.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/confident-businessman-6R4AN52.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 24396,
+            "dimensions": [
+                370,
+                458
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "education-women-and-lifestyle-concept-attractive-a-VY6PRCD_team.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/education-women-and-lifestyle-concept-attractive-a-VY6PRCD_team.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 29701,
+            "dimensions": [
+                370,
+                458
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "handsome-man-at-home-6FC7GVM.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/handsome-man-at-home-6FC7GVM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 36312,
+            "dimensions": [
+                370,
+                458
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "young-university-students-studying-together-group-2EQGPJ8.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/young-university-students-studying-together-group-2EQGPJ8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-video-section.json",
+                    "name": "Course Video Section"
+                }
+            ],
+            "filesize": 74595,
+            "dimensions": [
+                750,
+                716
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "group-of-college-students-studying-in-the-school-l-XRYK527.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/group-of-college-students-studying-in-the-school-l-XRYK527.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-video-section.json",
+                    "name": "Course Video Section"
+                }
+            ],
+            "filesize": 60831,
+            "dimensions": [
+                750,
+                716
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "university-students-in-cooperation-at-library-grou-XEYS7Z7.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/university-students-in-cooperation-at-library-grou-XEYS7Z7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-video-section.json",
+                    "name": "Course Video Section"
+                }
+            ],
+            "filesize": 74545,
+            "dimensions": [
+                750,
+                716
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "empowering-education_1311208.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/empowering-education_1311208.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/footer-section.json",
+                    "name": "Footer Section"
+                }
+            ],
+            "filesize": 9478,
+            "dimensions": [
+                485,
+                452
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "business-concept-portrait-handsome-business-man.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/business-concept-portrait-handsome-business-man.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 29410,
+            "dimensions": [
+                370,
+                458
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "smiling-businesswoman-standing-in-office-Y3BRKUW.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/smiling-businesswoman-standing-in-office-Y3BRKUW.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 28270,
+            "dimensions": [
+                370,
+                458
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "happy-young-elegant-businesswoman-with-arms-crosse-YJECA4Y.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/happy-young-elegant-businesswoman-with-arms-crosse-YJECA4Y.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 23941,
+            "dimensions": [
+                370,
+                458
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "online-education-icons-7G7MVE-12.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/online-education-icons-7G7MVE-12.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/icon-box-section-2.json",
+                    "name": "Icon Box Section 2"
+                }
+            ],
+            "filesize": 2094,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "online-education-icons-7G7MVE-11.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/online-education-icons-7G7MVE-11.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/icon-box-section-2.json",
+                    "name": "Icon Box Section 2"
+                }
+            ],
+            "filesize": 2570,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "online-education-icons-7G7MVE-13.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/online-education-icons-7G7MVE-13.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/icon-box-section-2.json",
+                    "name": "Icon Box Section 2"
+                }
+            ],
+            "filesize": 2099,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "girl-doing-homework-or-online-education-C2LU43X.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/girl-doing-homework-or-online-education-C2LU43X.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 52096,
+            "dimensions": [
+                600,
+                575
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "couple-of-students-9TP3YXP.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/couple-of-students-9TP3YXP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 42696,
+            "dimensions": [
+                600,
+                532
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        },
+        {
+            "filename": "girl-making-a-video-call-online-on-the-internet-P6P4AL5.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/girl-making-a-video-call-online-on-the-internet-P6P4AL5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 42103,
+            "dimensions": [
+                600,
+                555
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8DXK97TSLC"
+        }
+    ]
+}

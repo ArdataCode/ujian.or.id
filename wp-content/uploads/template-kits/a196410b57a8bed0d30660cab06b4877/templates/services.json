@@ -1,0 +1,3838 @@
+{
+    "version": "0.4",
+    "title": "Services",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "41f8c344",
+            "settings": {
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=0ab5842"
+                },
+                "content_position": "middle",
+                "padding": {
+                    "unit": "px",
+                    "top": "75",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "30",
+                    "bottom": "45",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "animation": "fadeIn",
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "overflow": "hidden"
+            },
+            "elements": [
+                {
+                    "id": "56f7602e",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "margin_tablet": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "margin_mobile": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7023caf1",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_1.png",
+                                    "id": 195,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "px",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "_offset_x": {
+                                    "size": -229,
+                                    "unit": "px"
+                                },
+                                "_offset_x_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_offset_y": {
+                                    "size": 24,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "unit": "px",
+                                    "size": 45,
+                                    "sizes": []
+                                },
+                                "_animation": "zoomIn",
+                                "_animation_delay": 300,
+                                "_transform_rotateZ_effect": {
+                                    "unit": "px",
+                                    "size": 31,
+                                    "sizes": []
+                                },
+                                "_transform_scale_effect": {
+                                    "unit": "px",
+                                    "size": 1.399999999999999911182158029987476766109466552734375,
+                                    "sizes": []
+                                },
+                                "hide_mobile": "hidden-mobile",
+                                "_position": "absolute"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "713b23cb",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_2.png",
+                                    "id": 196,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "_offset_x": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "_offset_x_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_offset_y": {
+                                    "unit": "%",
+                                    "size": -40,
+                                    "sizes": []
+                                },
+                                "_offset_y_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_offset_y_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_animation": "rollIn",
+                                "_animation_delay": 300,
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x_end": {
+                                    "unit": "px",
+                                    "size": -250,
+                                    "sizes": []
+                                },
+                                "_offset_x_end_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "47e72598",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_3.png",
+                                    "id": 197,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "_offset_x": {
+                                    "unit": "px",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "_offset_x_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_offset_orientation_v": "end",
+                                "_offset_y": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "_offset_y_end_tablet": {
+                                    "unit": "px",
+                                    "size": -55,
+                                    "sizes": []
+                                },
+                                "_animation": "zoomIn",
+                                "_animation_delay": 300,
+                                "hide_mobile": "hidden-mobile",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x_end": {
+                                    "unit": "px",
+                                    "size": -50,
+                                    "sizes": []
+                                },
+                                "_offset_x_end_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_offset_y_end": {
+                                    "unit": "px",
+                                    "size": -40,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3972f300",
+                            "settings": {
+                                "ekit_heading_title": "Services",
+                                "ekit_heading_sub_title": "",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "__globals__": {
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=9afde37",
+                                    "ekit_heading_title_color": "globals\/colors?id=primary",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=9afde37"
+                                },
+                                "show_shadow_text": "",
+                                "ekit_heading_focused_title_color": "#EF5743",
+                                "_animation": "fadeInDown",
+                                "ekit_heading_title_align": "text_center",
+                                "ekit_heading_title_color": "#000000",
+                                "show_title_border": "",
+                                "title_float_left": "",
+                                "ekit_heading_sub_title_show": "",
+                                "ekit_heading_sub_title_border": "yes",
+                                "ekit_heading_sub_title_tag": "h6",
+                                "ekit_heading_section_extra_title_show": "",
+                                "ekit_heading_seperator_position": "top",
+                                "ekit_heading_title_tag": "h1"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "116d874e",
+            "settings": {
+                "structure": "30",
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "28b1e731",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "200b4e2c",
+                            "settings": {
+                                "ekit_icon_box_title_text": "Online Counseling",
+                                "ekit_icon_box_description_text": "Lorem ipsum dolor sit amet, sectet\nadipiscing elit, sed do mod tempor \nincididunt ut labore dolore.",
+                                "ekit_icon_box_enable_btn": "yes",
+                                "ekit_icon_box_enable_hover_btn": "",
+                                "ekit_icon_box_btn_text": "Learn More",
+                                "ekit_icon_box_icons": {
+                                    "value": "icon icon-arrow-right",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_icon_box_icon_align": "right",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_box_text_align_responsive": "left",
+                                "ekit_icon_box_text_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_btn_background_group_background": "classic",
+                                "ekit_icon_box_btn_background_group_color": "#02010100",
+                                "__globals__": {
+                                    "ekit_icon_title_typography_group_typography": "globals\/typography?id=117016f",
+                                    "ekit_icon_box_button_text_color": "globals\/colors?id=secondary",
+                                    "ekit_icon_box_typography_group_typography": "globals\/typography?id=6caf69c",
+                                    "ekit_icon_box_btn_hover_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_icon_box_iocnbox_border_group_color": "globals\/colors?id=8ed0d9b"
+                                },
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/online-education-icons-7G7MVE-1.png",
+                                    "id": 253,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.2)"
+                                },
+                                "ekit_icon_box_infobox_border_radious": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": 15
+                                },
+                                "ekit_icon_box_icon_space": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_bg_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "20",
+                                    "bottom": "30",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_bg_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.2)"
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "6d633b05",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "46461d49",
+                            "settings": {
+                                "ekit_icon_box_title_text": "Audio Course",
+                                "ekit_icon_box_description_text": "Lorem ipsum dolor sit amet, sectet\nadipiscing elit, sed do mod tempor \nincididunt ut labore dolore.",
+                                "ekit_icon_box_enable_btn": "yes",
+                                "ekit_icon_box_enable_hover_btn": "",
+                                "ekit_icon_box_btn_text": "Learn More",
+                                "ekit_icon_box_icons": {
+                                    "value": "icon icon-arrow-right",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_icon_box_icon_align": "right",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_box_text_align_responsive": "left",
+                                "ekit_icon_box_text_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_btn_background_group_background": "classic",
+                                "ekit_icon_box_btn_background_group_color": "#02010100",
+                                "__globals__": {
+                                    "ekit_icon_title_typography_group_typography": "globals\/typography?id=117016f",
+                                    "ekit_icon_box_button_text_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_icon_box_typography_group_typography": "globals\/typography?id=6caf69c",
+                                    "ekit_icon_box_btn_hover_color": "globals\/colors?id=secondary",
+                                    "ekit_icon_box_icon_box_border_hv_group_color": "",
+                                    "ekit_icon_box_iocnbox_border_group_color": "globals\/colors?id=0ab5842"
+                                },
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/online-education-icons-7G7MVE-2.png",
+                                    "id": 254,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(238.99999999999997, 86.99999999999999, 66.99999999999997, 0.2)"
+                                },
+                                "ekit_icon_box_infobox_border_radious": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": 15
+                                },
+                                "ekit_icon_box_icon_space": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_bg_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "20",
+                                    "bottom": "30",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_bg_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_iocnbox_border_group_color": "#FFF1E7",
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(238.99999999999997, 86.99999999999999, 66.99999999999997, 0.2)"
+                                },
+                                "ekit_icon_box_icon_box_border_hv_group_border": "solid",
+                                "ekit_icon_box_icon_box_border_hv_group_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_typography_group_typography": "custom",
+                                "ekit_icon_title_typography_group_font_family": "Noto Sans HK",
+                                "ekit_icon_title_typography_group_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "ekit_icon_title_typography_group_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "ekit_icon_title_typography_group_font_weight": "700",
+                                "ekit_icon_title_typography_group_line_height": {
+                                    "unit": "em",
+                                    "size": 1.399999999999999911182158029987476766109466552734375,
+                                    "sizes": []
+                                },
+                                "ekit_icon_title_typography_group_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_icon_box_typography_group_typography": "custom",
+                                "ekit_icon_box_typography_group_font_family": "Noto Sans HK",
+                                "ekit_icon_box_typography_group_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_icon_box_typography_group_font_weight": "400",
+                                "ekit_icon_box_typography_group_line_height": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_icon_box_typography_group_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_icon_box_button_text_color": "#EF5743",
+                                "ekit_icon_box_btn_hover_color": "#1DA678",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 100
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5035311",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "54405787",
+                            "settings": {
+                                "ekit_icon_box_title_text": "Professional Training",
+                                "ekit_icon_box_description_text": "Lorem ipsum dolor sit amet, sectet\nadipiscing elit, sed do mod tempor \nincididunt ut labore dolore.",
+                                "ekit_icon_box_enable_btn": "yes",
+                                "ekit_icon_box_enable_hover_btn": "",
+                                "ekit_icon_box_btn_text": "Learn More",
+                                "ekit_icon_box_icons": {
+                                    "value": "icon icon-arrow-right",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_icon_box_icon_align": "right",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_box_text_align_responsive": "left",
+                                "ekit_icon_box_text_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_btn_background_group_background": "classic",
+                                "ekit_icon_box_btn_background_group_color": "#02010100",
+                                "__globals__": {
+                                    "ekit_icon_title_typography_group_typography": "globals\/typography?id=117016f",
+                                    "ekit_icon_box_button_text_color": "globals\/colors?id=secondary",
+                                    "ekit_icon_box_typography_group_typography": "globals\/typography?id=6caf69c",
+                                    "ekit_icon_box_btn_hover_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_icon_box_iocnbox_border_group_color": "globals\/colors?id=8ed0d9b"
+                                },
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/online-education-icons-7G7MVE-3.png",
+                                    "id": 255,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.2)"
+                                },
+                                "ekit_icon_box_infobox_border_radious": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": 15
+                                },
+                                "ekit_icon_box_icon_space": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_bg_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "20",
+                                    "bottom": "30",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_bg_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.2)"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 200
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "3fbec5e6",
+            "settings": {
+                "structure": "30",
+                "margin": {
+                    "unit": "px",
+                    "top": "10",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4d46bbe",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "13fe2b7",
+                            "settings": {
+                                "ekit_icon_box_title_text": "Professional Certification",
+                                "ekit_icon_box_description_text": "Lorem ipsum dolor sit amet, sectet\nadipiscing elit, sed do mod tempor \nincididunt ut labore dolore.",
+                                "ekit_icon_box_enable_btn": "yes",
+                                "ekit_icon_box_enable_hover_btn": "",
+                                "ekit_icon_box_btn_text": "Learn More",
+                                "ekit_icon_box_icons": {
+                                    "value": "icon icon-arrow-right",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_icon_box_icon_align": "right",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_box_text_align_responsive": "left",
+                                "ekit_icon_box_text_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_btn_background_group_background": "classic",
+                                "ekit_icon_box_btn_background_group_color": "#02010100",
+                                "__globals__": {
+                                    "ekit_icon_title_typography_group_typography": "globals\/typography?id=117016f",
+                                    "ekit_icon_box_button_text_color": "globals\/colors?id=secondary",
+                                    "ekit_icon_box_typography_group_typography": "globals\/typography?id=6caf69c",
+                                    "ekit_icon_box_btn_hover_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_icon_box_iocnbox_border_group_color": "globals\/colors?id=8ed0d9b"
+                                },
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/online-education-icons-7G7MVE-12.png",
+                                    "id": 1161,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.2)"
+                                },
+                                "ekit_icon_box_infobox_border_radious": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": 15
+                                },
+                                "ekit_icon_box_icon_space": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_bg_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "20",
+                                    "bottom": "30",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_bg_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.2)"
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "92218af",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "470a18bc",
+                            "settings": {
+                                "ekit_icon_box_title_text": "Best Instructors",
+                                "ekit_icon_box_description_text": "Lorem ipsum dolor sit amet, sectet\nadipiscing elit, sed do mod tempor \nincididunt ut labore dolore.",
+                                "ekit_icon_box_enable_btn": "yes",
+                                "ekit_icon_box_enable_hover_btn": "",
+                                "ekit_icon_box_btn_text": "Learn More",
+                                "ekit_icon_box_icons": {
+                                    "value": "icon icon-arrow-right",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_icon_box_icon_align": "right",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_box_text_align_responsive": "left",
+                                "ekit_icon_box_text_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_btn_background_group_background": "classic",
+                                "ekit_icon_box_btn_background_group_color": "#02010100",
+                                "__globals__": {
+                                    "ekit_icon_title_typography_group_typography": "globals\/typography?id=117016f",
+                                    "ekit_icon_box_button_text_color": "globals\/colors?id=secondary",
+                                    "ekit_icon_box_typography_group_typography": "globals\/typography?id=6caf69c",
+                                    "ekit_icon_box_btn_hover_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_icon_box_icon_box_border_hv_group_color": "",
+                                    "ekit_icon_box_iocnbox_border_group_color": "globals\/colors?id=8ed0d9b"
+                                },
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/online-education-icons-7G7MVE-11.png",
+                                    "id": 1160,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.2)"
+                                },
+                                "ekit_icon_box_infobox_border_radious": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": 15
+                                },
+                                "ekit_icon_box_icon_space": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_bg_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "20",
+                                    "bottom": "30",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_bg_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.2)"
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "4412e50d",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "554f03bf",
+                            "settings": {
+                                "ekit_icon_box_title_text": "Learn At All Levels",
+                                "ekit_icon_box_description_text": "Lorem ipsum dolor sit amet, sectet\nadipiscing elit, sed do mod tempor \nincididunt ut labore dolore.",
+                                "ekit_icon_box_enable_btn": "yes",
+                                "ekit_icon_box_enable_hover_btn": "",
+                                "ekit_icon_box_btn_text": "Learn More",
+                                "ekit_icon_box_icons": {
+                                    "value": "icon icon-arrow-right",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_icon_box_icon_align": "right",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_box_text_align_responsive": "left",
+                                "ekit_icon_box_text_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_btn_background_group_background": "classic",
+                                "ekit_icon_box_btn_background_group_color": "#02010100",
+                                "__globals__": {
+                                    "ekit_icon_title_typography_group_typography": "globals\/typography?id=117016f",
+                                    "ekit_icon_box_button_text_color": "globals\/colors?id=secondary",
+                                    "ekit_icon_box_typography_group_typography": "globals\/typography?id=6caf69c",
+                                    "ekit_icon_box_btn_hover_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_icon_box_iocnbox_border_group_color": "globals\/colors?id=8ed0d9b"
+                                },
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/online-education-icons-7G7MVE-13.png",
+                                    "id": 1162,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.2)"
+                                },
+                                "ekit_icon_box_infobox_border_radious": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": 15
+                                },
+                                "ekit_icon_box_icon_space": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_bg_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "20",
+                                    "bottom": "30",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_bg_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.2)"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 200
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "704d3e6e",
+            "settings": {
+                "content_position": "middle",
+                "structure": "30",
+                "background_background": "classic",
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": "0",
+                    "bottom": "110",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=e72a208"
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "30",
+                    "bottom": "60",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "30",
+                    "bottom": "60",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "overflow": "hidden"
+            },
+            "elements": [
+                {
+                    "id": "7644b99f",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "25",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "34c44633",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/online-education-icons-7G7MVE-8.png",
+                                    "id": 760,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "align": "left",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "15",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "_animation": "fadeInLeft",
+                                "align_mobile": "left",
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "41698f03",
+                            "settings": {
+                                "ekit_funfact_icon_type": "none",
+                                "ekit_funfact_number": 250,
+                                "ekit_funfact_number_suffix": "k+",
+                                "ekit_funfact_title_text": "Happy Students",
+                                "ekit_funfact_super": "",
+                                "ekit_funfact_super_text": "+",
+                                "ekit_funfact_text_align": "left",
+                                "ekit_funfact_hover_border_bottom": "",
+                                "ekit_funfact_enable_vertical_border": "",
+                                "ekit_funfact_number_count_bottom_space": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "_element_width_tablet": "inherit",
+                                "_animation": "fadeInRight",
+                                "__globals__": {
+                                    "ekit_funfact_number_typography_typography": "globals\/typography?id=fbd5706",
+                                    "ekit_funfact_title_typography_typography": "globals\/typography?id=7565227",
+                                    "ekit_funfact_title_color": "globals\/colors?id=primary",
+                                    "ekit_funfact_description_color": "globals\/colors?id=1ad8f47"
+                                },
+                                "ekit_funfact_text_align_mobile": "left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-funfact",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "225bbd25",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_10.png",
+                                    "id": 471,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": -322,
+                                    "unit": "px"
+                                },
+                                "_offset_orientation_v": "end",
+                                "_animation": "rotateInDownLeft",
+                                "_animation_delay": 300,
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile",
+                                "_offset_x_tablet": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "_offset_y_end": {
+                                    "size": -80,
+                                    "unit": "px"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "61e9d344",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "718347a8",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/online-education-icons-7G7MVE-9.png",
+                                    "id": 761,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "align": "left",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "15",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "_animation": "fadeInLeft",
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "26f53351",
+                            "settings": {
+                                "ekit_funfact_icon_type": "none",
+                                "ekit_funfact_number": 18,
+                                "ekit_funfact_number_suffix": "k+",
+                                "ekit_funfact_title_text": "Popular Courses",
+                                "ekit_funfact_super": "",
+                                "ekit_funfact_super_text": "+",
+                                "ekit_funfact_text_align": "left",
+                                "ekit_funfact_hover_border_bottom": "",
+                                "ekit_funfact_enable_vertical_border": "",
+                                "ekit_funfact_number_count_bottom_space": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "_element_width_tablet": "inherit",
+                                "_animation": "fadeInRight",
+                                "__globals__": {
+                                    "ekit_funfact_number_typography_typography": "globals\/typography?id=fbd5706",
+                                    "ekit_funfact_title_typography_typography": "globals\/typography?id=7565227",
+                                    "ekit_funfact_title_color": "globals\/colors?id=primary",
+                                    "ekit_funfact_description_color": "globals\/colors?id=1ad8f47"
+                                },
+                                "ekit_funfact_text_align_mobile": "left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-funfact",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "c19131c",
+                            "settings": {
+                                "ekit_icon_box_header_icons": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "ekit_icon_box_title_text": "",
+                                "ekit_icon_box_description_text": "",
+                                "ekit_icon_box_btn_text": "Learn more ",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_box_infobox_bg_group_background": "classic",
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_icon_border_radius": {
+                                    "unit": "%",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_icon_border_radius_tablet": {
+                                    "unit": "%",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_icon_border_radius_mobile": {
+                                    "unit": "%",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_icon_space": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_icon_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": 15
+                                },
+                                "ekit_icon_box_icon_height": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "ekit_icon_box_icon_width": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "ekit_icon_box_icon_line_height": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "__globals__": {
+                                    "ekit_icon_box_icon_secondary_color_normal": "globals\/colors?id=e72a208",
+                                    "ekit_icon_box_infobox_bg_group_color": "globals\/colors?id=84efb7c"
+                                },
+                                "ekit_icon_box_iocnbox_border_group_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_offset_x": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_offset_y": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "_z_index": -1,
+                                "_animation": "zoomIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "2cf70159",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "63c8fe51",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/online-education-icons-7G7MVE-10.png",
+                                    "id": 762,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "align": "left",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "15",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "_animation": "fadeInLeft",
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3d945139",
+                            "settings": {
+                                "ekit_funfact_icon_type": "none",
+                                "ekit_funfact_number": 130,
+                                "ekit_funfact_number_suffix": "+",
+                                "ekit_funfact_title_text": "Expert Instructors",
+                                "ekit_funfact_super": "",
+                                "ekit_funfact_super_text": "+",
+                                "ekit_funfact_text_align": "left",
+                                "ekit_funfact_hover_border_bottom": "",
+                                "ekit_funfact_enable_vertical_border": "",
+                                "ekit_funfact_number_count_bottom_space": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "_element_width_tablet": "inherit",
+                                "_animation": "fadeInRight",
+                                "__globals__": {
+                                    "ekit_funfact_number_typography_typography": "globals\/typography?id=fbd5706",
+                                    "ekit_funfact_title_typography_typography": "globals\/typography?id=7565227",
+                                    "ekit_funfact_title_color": "globals\/colors?id=primary",
+                                    "ekit_funfact_description_color": "globals\/colors?id=1ad8f47"
+                                },
+                                "ekit_funfact_text_align_mobile": "left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-funfact",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "32f508ad",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_11.png",
+                                    "id": 470,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x": {
+                                    "unit": "px",
+                                    "size": -350,
+                                    "sizes": []
+                                },
+                                "_offset_x_end": {
+                                    "size": -195.900000000000005684341886080801486968994140625,
+                                    "unit": "px"
+                                },
+                                "_animation": "rotateIn",
+                                "_animation_delay": 300,
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile",
+                                "_offset_x_end_tablet": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "_offset_y": {
+                                    "size": -21,
+                                    "unit": "px"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "f0871d5",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_12.png",
+                                    "id": 469,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x": {
+                                    "unit": "px",
+                                    "size": -350,
+                                    "sizes": []
+                                },
+                                "_offset_x_end": {
+                                    "size": -125.5,
+                                    "unit": "px"
+                                },
+                                "_offset_orientation_v": "end",
+                                "_animation": "rotateInDownRight",
+                                "_animation_delay": 300,
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile",
+                                "_offset_x_end_tablet": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "_offset_y_end": {
+                                    "size": -63,
+                                    "unit": "px"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "72c1dd59",
+            "settings": {
+                "structure": "20",
+                "margin": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "content_position": "middle",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "ae0653a",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 53,
+                        "_inline_size_tablet": 100,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "40a16f4b",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/girl-doing-homework-or-online-education-C2LU43X.jpg",
+                                    "id": 1180,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_mask_switch": "yes",
+                                "_mask_shape": "custom",
+                                "_mask_image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/mask_7.png",
+                                    "id": 1177,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "zoomIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5fe07904",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 47,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 100,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5b1b92d9",
+                            "settings": {
+                                "ekit_heading_title": "Every Child Deserves The Chance To {{Learn}}",
+                                "ekit_heading_sub_title": "Time has changed",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "ekit_heading_focused_title_color": "#1DA678",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=secondary",
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=9afde37",
+                                    "ekit_heading_title_color": "globals\/colors?id=primary",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=9afde37"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1fdf5c10",
+                            "settings": {
+                                "editor": "<p>Curabitur orci erat, mattis et molestie sed, feugiat quis sem Phase ut lectus et magna volutpat interdum ut in eros cras a enim.<\/p>",
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "250f3e98",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Nulla vel lorem nec lectus condimentum consequat",
+                                        "selected_icon": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "63269e9"
+                                    },
+                                    {
+                                        "text": "Etiam auctor est vitae massa ornare, eu mattis dolor",
+                                        "selected_icon": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "7ecdbc1"
+                                    },
+                                    {
+                                        "text": "Nunc quis libero porta orci accumsan feugiat nullam",
+                                        "selected_icon": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "91b32d6"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "text_indent": {
+                                    "unit": "px",
+                                    "size": 8,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 300,
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=1ad8f47",
+                                    "text_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "a279e26",
+                            "settings": {
+                                "text": "Know More",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 400
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "4ac31301",
+            "settings": {
+                "structure": "20",
+                "margin": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "content_position": "middle",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "688b7b11",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 47,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 100,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "19884b80",
+                            "settings": {
+                                "ekit_heading_title": "The expert in anything was once a {{beginner}}",
+                                "ekit_heading_sub_title": "Time has changed",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "ekit_heading_focused_title_color": "#1DA678",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=secondary",
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=9afde37",
+                                    "ekit_heading_title_color": "globals\/colors?id=primary",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=9afde37"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "581c575e",
+                            "settings": {
+                                "editor": "<p>Curabitur orci erat, mattis et molestie sed, feugiat quis sem Phase ut lectus et magna volutpat interdum ut in eros cras a enim.<\/p>",
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "682d9f5b",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Nulla vel lorem nec lectus condimentum consequat",
+                                        "selected_icon": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "63269e9"
+                                    },
+                                    {
+                                        "text": "Etiam auctor est vitae massa ornare, eu mattis dolor",
+                                        "selected_icon": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "7ecdbc1"
+                                    },
+                                    {
+                                        "text": "Nunc quis libero porta orci accumsan feugiat nullam",
+                                        "selected_icon": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "91b32d6"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "text_indent": {
+                                    "unit": "px",
+                                    "size": 8,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 300,
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=1ad8f47",
+                                    "text_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5385681f",
+                            "settings": {
+                                "text": "Know More",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 400
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "2d899e06",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 53,
+                        "_inline_size_tablet": 100,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "3597883d",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/couple-of-students-9TP3YXP.jpg",
+                                    "id": 1179,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_mask_switch": "yes",
+                                "_mask_shape": "custom",
+                                "_mask_image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/mask_6.png",
+                                    "id": 1178,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "zoomIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1f5f251a",
+            "settings": {
+                "structure": "20",
+                "margin": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "content_position": "middle",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "68bb58a",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 53,
+                        "_inline_size_tablet": 100,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "d6eec61",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/girl-making-a-video-call-online-on-the-internet-P6P4AL5.jpg",
+                                    "id": 1181,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_mask_switch": "yes",
+                                "_mask_shape": "custom",
+                                "_mask_image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/12\/mask_8.png",
+                                    "id": 1176,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "zoomIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "3045ffe8",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 47,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 100,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3505955c",
+                            "settings": {
+                                "ekit_heading_title": "What we learn with pleasure we never {{ forget}}",
+                                "ekit_heading_sub_title": "Time has changed",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "ekit_heading_focused_title_color": "#1DA678",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=secondary",
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=9afde37",
+                                    "ekit_heading_title_color": "globals\/colors?id=primary",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=9afde37"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4d65290f",
+                            "settings": {
+                                "editor": "<p>Curabitur orci erat, mattis et molestie sed, feugiat quis sem Phase ut lectus et magna volutpat interdum ut in eros cras a enim.<\/p>",
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7d5e8985",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Nulla vel lorem nec lectus condimentum consequat",
+                                        "selected_icon": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "63269e9"
+                                    },
+                                    {
+                                        "text": "Etiam auctor est vitae massa ornare, eu mattis dolor",
+                                        "selected_icon": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "7ecdbc1"
+                                    },
+                                    {
+                                        "text": "Nunc quis libero porta orci accumsan feugiat nullam",
+                                        "selected_icon": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "91b32d6"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "text_indent": {
+                                    "unit": "px",
+                                    "size": 8,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 300,
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=1ad8f47",
+                                    "text_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "598ec6cc",
+                            "settings": {
+                                "text": "Know More",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 400
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "322e4b0b",
+            "settings": {
+                "content_position": "middle",
+                "structure": "20",
+                "background_background": "classic",
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": "0",
+                    "bottom": "110",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=e72a208"
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "30",
+                    "bottom": "60",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "30",
+                    "bottom": "10",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "overflow": "hidden"
+            },
+            "elements": [
+                {
+                    "id": "59fcb073",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "25",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "116f9cc4",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/confident-students-WK4JZTX.jpg",
+                                    "id": 445,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_mask_switch": "yes",
+                                "_mask_shape": "custom",
+                                "_mask_image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/mask_3.png",
+                                    "id": 446,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_animation": "zoomIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "555020a2",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_9.png",
+                                    "id": 472,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "unit": "px",
+                                    "size": -200,
+                                    "sizes": []
+                                },
+                                "_animation": "rotateInDownLeft",
+                                "_animation_delay": 300,
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile",
+                                "_offset_x_tablet": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "19b92993",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_10.png",
+                                    "id": 471,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "unit": "px",
+                                    "size": -350,
+                                    "sizes": []
+                                },
+                                "_offset_orientation_v": "end",
+                                "_animation": "rotateInDownLeft",
+                                "_animation_delay": 300,
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile",
+                                "_offset_x_tablet": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "4e8fa93",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "36ce8812",
+                            "settings": {
+                                "ekit_heading_title": "Check what our {{Students}} say about us ",
+                                "ekit_heading_sub_title": "Time has changed",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "ekit_heading_focused_title_color": "#1DA678",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=9afde37",
+                                    "ekit_heading_title_color": "globals\/colors?id=primary",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=9afde37"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1cb4b5dc",
+                            "settings": {
+                                "ekit_testimonial_style": "style5",
+                                "ekit_testimonial_rating_enable": "",
+                                "ekit_testimonial_data": [
+                                    {
+                                        "client_name": "Jessica Hische",
+                                        "_id": "d9d1706",
+                                        "designation": "Web Developer",
+                                        "review": "Cras vestibulum arcu sit amet erat accumsan vehicula. Curabitur aliquam sapien in posuere volutpat. Sed vinar elit sapien, non accumsan enim malesuada eu. ",
+                                        "client_photo": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/education-women-and-lifestyle-concept-attractive-a-VY6PRCD.jpg",
+                                            "id": 451,
+                                            "alt": "",
+                                            "source": "library"
+                                        }
+                                    },
+                                    {
+                                        "client_name": "Devon Lane",
+                                        "designation": "Web Developer",
+                                        "review": "Cras vestibulum arcu sit amet erat accumsan vehicula. Curabitur aliquam sapien in posuere volutpat. Sed vinar elit sapien, non accumsan enim malesuada eu. ",
+                                        "client_photo": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/optimistic-positive-handsome-bearded-man-FXXXGY4.jpg",
+                                            "id": 393,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "_id": "4c29f28"
+                                    },
+                                    {
+                                        "client_name": "Martin Scorsese",
+                                        "designation": "Web Developer",
+                                        "review": "Cras vestibulum arcu sit amet erat accumsan vehicula. Curabitur aliquam sapien in posuere volutpat. Sed vinar elit sapien, non accumsan enim malesuada eu. ",
+                                        "client_photo": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/small-business-owners-startup-and-e-commerce-conce-83S5W35.jpg",
+                                            "id": 391,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "_id": "7b96787"
+                                    }
+                                ],
+                                "ekit_testimonial_layout_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_testimonial_layout_background_background": "classic",
+                                "ekit_testimonial_layout_background_color": "#02010100",
+                                "ekit_testimonial_layout_shadow_box_shadow_type": "yes",
+                                "ekit_testimonial_layout_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(0,0,0,0.5)"
+                                },
+                                "ekit_testimonial_description_color": "#000000",
+                                "ekit_testimonial_description_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_testimonial_section_wathermark_color": "#EF5743",
+                                "ekit_testimonial_section_wathermark_margin_bottom": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_name_typography_typography": "custom",
+                                "ekit_testimonial_client_name_typography_font_family": "Noto Sans HK",
+                                "ekit_testimonial_client_name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_name_typography_font_weight": "700",
+                                "ekit_testimonial_client_name_typography_line_height": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_name_typography_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_designation_normal_color": "#1DA678",
+                                "ekit_testimonial_designation_typography_typography": "custom",
+                                "ekit_testimonial_designation_typography_font_family": "Noto Sans HK",
+                                "ekit_testimonial_designation_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 13,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_designation_typography_font_weight": "400",
+                                "ekit_testimonial_designation_typography_line_height": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_designation_typography_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_img_pos": "left",
+                                "__globals__": {
+                                    "ekit_testimonial_layout_background_color": "globals\/colors?id=84efb7c",
+                                    "ekit_testimonial_section_wathermark_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_testimonial_description_color": "globals\/colors?id=primary",
+                                    "ekit_testimonial_description_typography_typography": "globals\/typography?id=650027d",
+                                    "ekit_testimonial_designation_normal_color": "globals\/colors?id=secondary",
+                                    "ekit_testimonial_designation_typography_typography": "globals\/typography?id=fcbdabd",
+                                    "ekit_testimonial_client_name_typography_typography": "globals\/typography?id=40ac99e",
+                                    "ekit_testimonial_section_wathermark_active_color": ""
+                                },
+                                "_animation": "fadeInUp",
+                                "ekit_testimonial_slidetoshow_tablet": 1,
+                                "ekit_testimonial_slidesToScroll_tablet": 1
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-testimonial",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1436dbf1",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_11.png",
+                                    "id": 470,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x": {
+                                    "unit": "px",
+                                    "size": -350,
+                                    "sizes": []
+                                },
+                                "_offset_x_end": {
+                                    "unit": "px",
+                                    "size": -200,
+                                    "sizes": []
+                                },
+                                "_animation": "rotateIn",
+                                "_animation_delay": 300,
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile",
+                                "_offset_x_end_tablet": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5278db76",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_7.png",
+                                    "id": 359,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x": {
+                                    "unit": "px",
+                                    "size": -350,
+                                    "sizes": []
+                                },
+                                "_offset_x_end": {
+                                    "unit": "px",
+                                    "size": -300,
+                                    "sizes": []
+                                },
+                                "_offset_y": {
+                                    "unit": "px",
+                                    "size": 200,
+                                    "sizes": []
+                                },
+                                "_animation": "zoomIn",
+                                "_animation_delay": 300,
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile",
+                                "_offset_x_end_tablet": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6f60e5fd",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_12.png",
+                                    "id": 469,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x": {
+                                    "unit": "px",
+                                    "size": -350,
+                                    "sizes": []
+                                },
+                                "_offset_x_end": {
+                                    "unit": "px",
+                                    "size": -200,
+                                    "sizes": []
+                                },
+                                "_offset_orientation_v": "end",
+                                "_animation": "rotateInDownRight",
+                                "_animation_delay": 300,
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile",
+                                "_offset_x_end_tablet": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "3c5a4c8e",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2b820653",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "51c96b20",
+                            "settings": {
+                                "ekit_heading_title": "Get Latest {{News}}",
+                                "ekit_heading_sub_title": "Time has changed",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "ekit_heading_focused_title_color": "#1DA678",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=9afde37",
+                                    "ekit_heading_title_color": "globals\/colors?id=primary",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=9afde37",
+                                    "ekit_heading_focused_title_color_hover": "globals\/colors?id=primary"
+                                },
+                                "ekit_heading_title_align": "text_center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "a79c0e5",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "10",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "animation": "fadeInUp",
+                "animation_delay": 100
+            },
+            "elements": [
+                {
+                    "id": "8aeb680",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "549da1f1",
+                            "settings": {
+                                "ekit_blog_posts_layout_style": "elementskit-post-image-card",
+                                "ekit_blog_posts_content": "",
+                                "ekit_blog_posts_read_more": "",
+                                "ekit_blog_posts_cats": [
+                                    "5",
+                                    "4",
+                                    "6"
+                                ],
+                                "ekit_blog_posts_title_position": "before_meta",
+                                "ekit_blog_posts_meta_select": [
+                                    "author",
+                                    "category"
+                                ],
+                                "ekit_blog_posts_author_image": "",
+                                "ekit_blog_posts_meta_category_icons": {
+                                    "value": "icon icon-page-list",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_blog_posts_btn_text": "Learn more ",
+                                "ekit_blog_posts_background_background": "classic",
+                                "ekit_blog_posts_shadow_box_shadow_type": "yes",
+                                "ekit_blog_posts_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 20,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "ekit_blog_posts_radius": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_text_content_wraper_padding": {
+                                    "unit": "px",
+                                    "top": "24",
+                                    "right": "30",
+                                    "bottom": "35",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_feature_img_radius": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_feature_img_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_feature_img_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_meta_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_meta_item_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "15",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_meta_icon_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "2",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_meta_icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_blog_posts_title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_blog_posts_background_color": "globals\/colors?id=84efb7c",
+                                    "ekit_blog_posts_title_color": "globals\/colors?id=primary",
+                                    "ekit_blog_posts_title_typography_typography": "globals\/typography?id=ab22368",
+                                    "ekit_blog_posts_meta_color_normal": "globals\/colors?id=9a75736",
+                                    "ekit_blog_posts_meta_color_icon_normal": "globals\/colors?id=1ad8f47",
+                                    "ekit_blog_posts_meta_typography_typography": "globals\/typography?id=fcbdabd"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-blog-posts",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "79516f94",
+            "settings": {
+                "structure": "20",
+                "background_background": "classic",
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": "0",
+                    "bottom": "110",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=e72a208"
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "30",
+                    "bottom": "40",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "overflow": "hidden"
+            },
+            "elements": [
+                {
+                    "id": "11242054",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "30",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "content_position_tablet": "center",
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "67fecfcd",
+                            "settings": {
+                                "ekit_heading_title": "Learn at your own pace, with {{lifetime access}} on mobile and desktop",
+                                "ekit_heading_sub_title": "Time has changed",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "ekit_heading_focused_title_color": "#1DA678",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=secondary",
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=9afde37",
+                                    "ekit_heading_title_color": "globals\/colors?id=primary",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=9afde37"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "204180c9",
+                            "settings": {
+                                "editor": "<p>Morbi blandit tortor est, in tempor tellus fermentum sed quam id commodo nibh, quis pretium nulla nunc dignissim.<\/p>",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=639428c"
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2321987",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/online-education-icons-7G7MVE-2.png",
+                                    "id": 254,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "space": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "space_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "space_mobile": {
+                                    "unit": "px",
+                                    "size": 46,
+                                    "sizes": []
+                                },
+                                "_element_width": "auto",
+                                "_animation": "fadeInLeft"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "58e2f065",
+                            "settings": {
+                                "title": "+88 (0) 123 456 789",
+                                "header_size": "h3",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "15",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=1ad8f47",
+                                    "typography_typography": "globals\/typography?id=7d817dc"
+                                },
+                                "_animation": "fadeInRight",
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "8",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "10",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "601c5a2e",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_13.png",
+                                    "id": 585,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "unit": "px",
+                                    "size": -250,
+                                    "sizes": []
+                                },
+                                "_offset_y": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_animation": "rotateIn",
+                                "_animation_delay": 300,
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3fe5e178",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_5.png",
+                                    "id": 357,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "unit": "px",
+                                    "size": -320,
+                                    "sizes": []
+                                },
+                                "_offset_orientation_v": "end",
+                                "_offset_y": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_offset_y_end": {
+                                    "unit": "px",
+                                    "size": -50,
+                                    "sizes": []
+                                },
+                                "_animation": "zoomIn",
+                                "_animation_delay": 300,
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "1ef69b04",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "34c1e3e7",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_7.png",
+                                    "id": 359,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x_end": {
+                                    "unit": "px",
+                                    "size": -200,
+                                    "sizes": []
+                                },
+                                "_offset_orientation_v": "end",
+                                "_offset_y": {
+                                    "unit": "px",
+                                    "size": 200,
+                                    "sizes": []
+                                },
+                                "_offset_y_end": {
+                                    "unit": "px",
+                                    "size": -55,
+                                    "sizes": []
+                                },
+                                "_animation": "zoomIn",
+                                "_animation_delay": 300,
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile",
+                                "_offset_x_end_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "73b065bf",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_11.png",
+                                    "id": 470,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x_end": {
+                                    "unit": "px",
+                                    "size": -200,
+                                    "sizes": []
+                                },
+                                "_animation": "slideInDown",
+                                "_animation_delay": 300,
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile",
+                                "_offset_x_end_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6534a60f",
+            "settings": {
+                "structure": "20",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "141bc937",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "1c917efa",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "281a35ac",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "background_overlay_image": {
+                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/people-international-friendship-leisure-modern-tec-JWASYGE.jpg",
+                            "id": 490,
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "border_width": {
+                            "unit": "px",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        },
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 0,
+                            "blur": 30,
+                            "spread": 0,
+                            "color": "rgba(238.99999999999997, 86.99999999999999, 66.99999999999997, 0.2)"
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=d7fcd19"
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "-494",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInUp",
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "719fb290",
+                            "settings": {
+                                "ekit_heading_title": "Book for  free {{Resources}}",
+                                "ekit_heading_sub_title": "Time has changed",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "ekit_heading_focused_title_color": "#1DA678",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "-10",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=9afde37",
+                                    "ekit_heading_title_color": "globals\/colors?id=primary",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=9afde37"
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "-10",
+                                    "left": "30",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "70785f3a",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_15.png",
+                                    "id": 583,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x_end": {
+                                    "unit": "px",
+                                    "size": -100,
+                                    "sizes": []
+                                },
+                                "_offset_orientation_v": "end",
+                                "_offset_y_end": {
+                                    "unit": "px",
+                                    "size": -50,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInLeft",
+                                "_animation_delay": 300,
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile",
+                                "_offset_x_end_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "37e98664",
+                            "settings": {
+                                "background_background": "classic",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": 0,
+                                    "bottom": "",
+                                    "left": 0,
+                                    "isLinked": true
+                                },
+                                "z_index": 2,
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=d7fcd19"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "7ea0376a",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "aab344a",
+                                            "settings": {
+                                                "mf_form_id": "543***1674659599984"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "metform",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "5720cd77",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/particles_14.png",
+                                    "id": 584,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x_end": {
+                                    "unit": "px",
+                                    "size": -300,
+                                    "sizes": []
+                                },
+                                "_offset_y": {
+                                    "unit": "px",
+                                    "size": 200,
+                                    "sizes": []
+                                },
+                                "_animation": "rotateInUpLeft",
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-mobile",
+                                "_offset_x_end_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

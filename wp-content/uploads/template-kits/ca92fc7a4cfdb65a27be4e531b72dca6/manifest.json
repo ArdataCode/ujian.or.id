@@ -1,0 +1,2115 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Paycash",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "10-Contact",
+            "screenshot": "screenshots\/10-contact.jpg",
+            "source": "templates\/10-contact.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/template-kit\/10-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "09-Case Study Detail",
+            "screenshot": "screenshots\/09-case-study-detail.jpg",
+            "source": "templates\/09-case-study-detail.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/template-kit\/09-case-study-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "08-Use Cases",
+            "screenshot": "screenshots\/08-use-cases.jpg",
+            "source": "templates\/08-use-cases.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/template-kit\/08-use-cases\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "07-Pricing",
+            "screenshot": "screenshots\/07-pricing.jpg",
+            "source": "templates\/07-pricing.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/template-kit\/07-pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "06-Team",
+            "screenshot": "screenshots\/06-team.jpg",
+            "source": "templates\/06-team.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/template-kit\/06-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "05-How It Works",
+            "screenshot": "screenshots\/05-how-it-works.jpg",
+            "source": "templates\/05-how-it-works.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/template-kit\/05-how-it-works\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "04-Product Detail",
+            "screenshot": "screenshots\/04-product-detail.jpg",
+            "source": "templates\/04-product-detail.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/template-kit\/04-product-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "03-Products",
+            "screenshot": "screenshots\/03-products.jpg",
+            "source": "templates\/03-products.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/template-kit\/03-products\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "02-About Us",
+            "screenshot": "screenshots\/02-about-us.jpg",
+            "source": "templates\/02-about-us.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/template-kit\/02-about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "01-Homepage",
+            "screenshot": "screenshots\/01-homepage.jpg",
+            "source": "templates\/01-homepage.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/template-kit\/01-homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder - Footer (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-footer-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-footer-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/?elementor_library=footer-elementor-pro",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder - Header (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-header-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-header-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/?elementor_library=header-elementor-pro",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.9.0",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.6.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg-cta-v4.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/bg-cta-v4-800x365.png",
+            "templates": [
+                {
+                    "source": "templates\/10-contact.json",
+                    "name": "10-Contact"
+                },
+                {
+                    "source": "templates\/09-case-study-detail.json",
+                    "name": "09-Case Study Detail"
+                },
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                },
+                {
+                    "source": "templates\/07-pricing.json",
+                    "name": "07-Pricing"
+                },
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                },
+                {
+                    "source": "templates\/04-product-detail.json",
+                    "name": "04-Product Detail"
+                },
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                },
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 386187,
+            "dimensions": [
+                1439,
+                656
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coworkers-working-pc-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/coworkers-working-pc-1.png",
+            "templates": [
+                {
+                    "source": "templates\/10-contact.json",
+                    "name": "10-Contact"
+                }
+            ],
+            "filesize": 59332,
+            "dimensions": [
+                369,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coworkers-working-on-tablet-pc-QH4LGRG"
+        },
+        {
+            "filename": "bg-faq.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/bg-faq-800x333.png",
+            "templates": [
+                {
+                    "source": "templates\/10-contact.json",
+                    "name": "10-Contact"
+                },
+                {
+                    "source": "templates\/07-pricing.json",
+                    "name": "07-Pricing"
+                },
+                {
+                    "source": "templates\/04-product-detail.json",
+                    "name": "04-Product Detail"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 196567,
+            "dimensions": [
+                1920,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo04.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/logo04.png",
+            "templates": [
+                {
+                    "source": "templates\/10-contact.json",
+                    "name": "10-Contact"
+                },
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                },
+                {
+                    "source": "templates\/07-pricing.json",
+                    "name": "07-Pricing"
+                },
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 13639,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/logo02.png",
+            "templates": [
+                {
+                    "source": "templates\/10-contact.json",
+                    "name": "10-Contact"
+                },
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                },
+                {
+                    "source": "templates\/07-pricing.json",
+                    "name": "07-Pricing"
+                },
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 1931,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo09.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/logo09.png",
+            "templates": [
+                {
+                    "source": "templates\/10-contact.json",
+                    "name": "10-Contact"
+                },
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                },
+                {
+                    "source": "templates\/07-pricing.json",
+                    "name": "07-Pricing"
+                },
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 2950,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo08.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/logo08.png",
+            "templates": [
+                {
+                    "source": "templates\/10-contact.json",
+                    "name": "10-Contact"
+                },
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                },
+                {
+                    "source": "templates\/07-pricing.json",
+                    "name": "07-Pricing"
+                },
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 1936,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/logo01.png",
+            "templates": [
+                {
+                    "source": "templates\/10-contact.json",
+                    "name": "10-Contact"
+                },
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                },
+                {
+                    "source": "templates\/07-pricing.json",
+                    "name": "07-Pricing"
+                },
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 3011,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo05.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/logo05.png",
+            "templates": [
+                {
+                    "source": "templates\/10-contact.json",
+                    "name": "10-Contact"
+                },
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                },
+                {
+                    "source": "templates\/07-pricing.json",
+                    "name": "07-Pricing"
+                },
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 3380,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "use-cases-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/use-cases-3-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/09-case-study-detail.json",
+                    "name": "09-Case Study Detail"
+                },
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                }
+            ],
+            "filesize": 89826,
+            "dimensions": [
+                1000,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-selling-bread-in-the-shop-QKTGL9M"
+        },
+        {
+            "filename": "logo03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/logo03.png",
+            "templates": [
+                {
+                    "source": "templates\/09-case-study-detail.json",
+                    "name": "09-Case Study Detail"
+                },
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                }
+            ],
+            "filesize": 3788,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "bg-gradient-blur-v3.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/bg-gradient-blur-v3-800x613.png",
+            "templates": [
+                {
+                    "source": "templates\/09-case-study-detail.json",
+                    "name": "09-Case Study Detail"
+                },
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                },
+                {
+                    "source": "templates\/07-pricing.json",
+                    "name": "07-Pricing"
+                },
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                },
+                {
+                    "source": "templates\/04-product-detail.json",
+                    "name": "04-Product Detail"
+                },
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                },
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                },
+                {
+                    "source": "templates\/theme-builder-footer-elementor-pro-.json",
+                    "name": "Theme Builder - Footer (Elementor Pro)"
+                }
+            ],
+            "filesize": 176156,
+            "dimensions": [
+                926,
+                710
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "review-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/review-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/09-case-study-detail.json",
+                    "name": "09-Case Study Detail"
+                },
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                },
+                {
+                    "source": "templates\/07-pricing.json",
+                    "name": "07-Pricing"
+                },
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 32631,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/face-of-a-beautiful-young-girl-with-a-clean-fresh--9T7TPHN"
+        },
+        {
+            "filename": "bg-gradient-blur.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/bg-gradient-blur.jpg",
+            "templates": [
+                {
+                    "source": "templates\/09-case-study-detail.json",
+                    "name": "09-Case Study Detail"
+                },
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                },
+                {
+                    "source": "templates\/04-product-detail.json",
+                    "name": "04-Product Detail"
+                },
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                },
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 12729,
+            "dimensions": [
+                517,
+                358
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "use-cases-video.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/use-cases-video-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/09-case-study-detail.json",
+                    "name": "09-Case Study Detail"
+                }
+            ],
+            "filesize": 86161,
+            "dimensions": [
+                1000,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-in-apron-working-in-bakery-5JNZYBE"
+        },
+        {
+            "filename": "bg-hero-v4.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/bg-hero-v4-800x569.png",
+            "templates": [
+                {
+                    "source": "templates\/09-case-study-detail.json",
+                    "name": "09-Case Study Detail"
+                },
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 144006,
+            "dimensions": [
+                1440,
+                1024
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "goal-illustration.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/goal-illustration.png",
+            "templates": [
+                {
+                    "source": "templates\/09-case-study-detail.json",
+                    "name": "09-Case Study Detail"
+                }
+            ],
+            "filesize": 27430,
+            "dimensions": [
+                573,
+                394
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-target-concept-set-in-flat-line-design-PPMWTVK"
+        },
+        {
+            "filename": "bg-line-v7.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/bg-line-v7-800x467.png",
+            "templates": [
+                {
+                    "source": "templates\/09-case-study-detail.json",
+                    "name": "09-Case Study Detail"
+                },
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                },
+                {
+                    "source": "templates\/07-pricing.json",
+                    "name": "07-Pricing"
+                },
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                },
+                {
+                    "source": "templates\/04-product-detail.json",
+                    "name": "04-Product Detail"
+                },
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                },
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 5503,
+            "dimensions": [
+                949,
+                554
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "use-case-study-icon-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/use-case-study-icon-02.png",
+            "templates": [
+                {
+                    "source": "templates\/09-case-study-detail.json",
+                    "name": "09-Case Study Detail"
+                }
+            ],
+            "filesize": 2208,
+            "dimensions": [
+                86,
+                86
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "use-case-study-icon-01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/use-case-study-icon-01.png",
+            "templates": [
+                {
+                    "source": "templates\/09-case-study-detail.json",
+                    "name": "09-Case Study Detail"
+                }
+            ],
+            "filesize": 2223,
+            "dimensions": [
+                86,
+                86
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "use-cases-hero-image.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/use-cases-hero-image-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                }
+            ],
+            "filesize": 75030,
+            "dimensions": [
+                1000,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-working-at-business-presentation-35XQER6"
+        },
+        {
+            "filename": "use-cases-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/use-cases-1-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                }
+            ],
+            "filesize": 78819,
+            "dimensions": [
+                1000,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/botanist-examining-the-plants-2BWNVBW"
+        },
+        {
+            "filename": "logo06.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/logo06.png",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                }
+            ],
+            "filesize": 4550,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo10.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/logo10.png",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                }
+            ],
+            "filesize": 2253,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "use-cases-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/use-cases-2-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                }
+            ],
+            "filesize": 85047,
+            "dimensions": [
+                1000,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/manual-worker-working-in-storage-room-SAZ6VTU"
+        },
+        {
+            "filename": "male-face-01-v2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/male-face-01-v2.png",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                },
+                {
+                    "source": "templates\/07-pricing.json",
+                    "name": "07-Pricing"
+                },
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 18506,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-portrait-of-shocked-unshaven-caucasian-ma-UEQALXW"
+        },
+        {
+            "filename": "team-4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/team-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                }
+            ],
+            "filesize": 36570,
+            "dimensions": [
+                600,
+                650
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/picture-of-successful-female-model-wears-formal-cl-YX3T4FW"
+        },
+        {
+            "filename": "logo07.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/logo07.png",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                }
+            ],
+            "filesize": 2758,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo11.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/logo11.png",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                }
+            ],
+            "filesize": 4061,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "company-logo-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/company-logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                },
+                {
+                    "source": "templates\/07-pricing.json",
+                    "name": "07-Pricing"
+                },
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 1261,
+            "dimensions": [
+                105,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "company-logo-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/company-logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                },
+                {
+                    "source": "templates\/07-pricing.json",
+                    "name": "07-Pricing"
+                },
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 4534,
+            "dimensions": [
+                125,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "company-logo-tesimonial-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/company-logo-tesimonial-03.png",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                }
+            ],
+            "filesize": 1002,
+            "dimensions": [
+                70,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "company-logo-tesimonial-06.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/company-logo-tesimonial-06.png",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                }
+            ],
+            "filesize": 1325,
+            "dimensions": [
+                84,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "company-logo-tesimonial-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/company-logo-tesimonial-02.png",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                }
+            ],
+            "filesize": 4403,
+            "dimensions": [
+                123,
+                61
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "company-logo-tesimonial-07.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/company-logo-tesimonial-07.png",
+            "templates": [
+                {
+                    "source": "templates\/08-use-cases.json",
+                    "name": "08-Use Cases"
+                }
+            ],
+            "filesize": 924,
+            "dimensions": [
+                119,
+                30
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "team-01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/team-01.png",
+            "templates": [
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                }
+            ],
+            "filesize": 70651,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/eight-avatars-of-young-people-3d-illustration-RM7PLH9"
+        },
+        {
+            "filename": "team-07.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/team-07.png",
+            "templates": [
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                }
+            ],
+            "filesize": 71624,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/eight-avatars-of-young-people-3d-illustration-RM7PLH9"
+        },
+        {
+            "filename": "team-05.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/team-05.png",
+            "templates": [
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                }
+            ],
+            "filesize": 77566,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/eight-avatars-of-young-people-3d-illustration-RM7PLH9"
+        },
+        {
+            "filename": "team-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/team-03.png",
+            "templates": [
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                }
+            ],
+            "filesize": 65327,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/eight-avatars-of-young-people-3d-illustration-RM7PLH9"
+        },
+        {
+            "filename": "team-06.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/team-06.png",
+            "templates": [
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                }
+            ],
+            "filesize": 74924,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/eight-avatars-of-young-people-3d-illustration-RM7PLH9"
+        },
+        {
+            "filename": "team-04.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/team-04.png",
+            "templates": [
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                }
+            ],
+            "filesize": 71551,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/eight-avatars-of-young-people-3d-illustration-RM7PLH9"
+        },
+        {
+            "filename": "team-meeting.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/team-meeting-800x389.jpg",
+            "templates": [
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                }
+            ],
+            "filesize": 119123,
+            "dimensions": [
+                1440,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-handshake-at-office-UBP8AAQ"
+        },
+        {
+            "filename": "team-pic-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/team-pic-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                }
+            ],
+            "filesize": 42061,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/students-studying-in-team-PMD7QA2"
+        },
+        {
+            "filename": "team-pic-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/team-pic-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                }
+            ],
+            "filesize": 46123,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-planning-in-team-SXJ3S96"
+        },
+        {
+            "filename": "team-pic-4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/team-pic-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                }
+            ],
+            "filesize": 46228,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/designers-working-in-team-KYR6L5J"
+        },
+        {
+            "filename": "team-pic-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/team-pic-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/06-team.json",
+                    "name": "06-Team"
+                },
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                }
+            ],
+            "filesize": 27669,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-working-in-team-49CGE8T"
+        },
+        {
+            "filename": "download-app-v4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/download-app-v4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                }
+            ],
+            "filesize": 50219,
+            "dimensions": [
+                500,
+                326
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bayar-simple-personal-banking-admin-dashboard-M22BDPM"
+        },
+        {
+            "filename": "register-account.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/register-account.jpg",
+            "templates": [
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                }
+            ],
+            "filesize": 43800,
+            "dimensions": [
+                500,
+                326
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bayar-simple-personal-banking-admin-dashboard-M22BDPM"
+        },
+        {
+            "filename": "choose-payment.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/choose-payment.jpg",
+            "templates": [
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                }
+            ],
+            "filesize": 44019,
+            "dimensions": [
+                500,
+                326
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bayar-simple-personal-banking-admin-dashboard-M22BDPM"
+        },
+        {
+            "filename": "enjoy-the-app.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/enjoy-the-app.jpg",
+            "templates": [
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                }
+            ],
+            "filesize": 55651,
+            "dimensions": [
+                500,
+                326
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bayar-simple-personal-banking-admin-dashboard-M22BDPM"
+        },
+        {
+            "filename": "feature-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/feature-1.png",
+            "templates": [
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 893,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "feature-icon-v2-05.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/feature-icon-v2-05.png",
+            "templates": [
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 483,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "feature-icon-v2-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/feature-icon-v2-02.png",
+            "templates": [
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 633,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "feature-icon-v2-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/feature-icon-v2-03.png",
+            "templates": [
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                },
+                {
+                    "source": "templates\/04-product-detail.json",
+                    "name": "04-Product Detail"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 535,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "feature-icon-v2-01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/feature-icon-v2-01.png",
+            "templates": [
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 265,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "feature-icon-v2-04.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/feature-icon-v2-04.png",
+            "templates": [
+                {
+                    "source": "templates\/05-how-it-works.json",
+                    "name": "05-How It Works"
+                },
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 558,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "Balance-Page.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/Balance-Page-800x544.png",
+            "templates": [
+                {
+                    "source": "templates\/04-product-detail.json",
+                    "name": "04-Product Detail"
+                },
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 136490,
+            "dimensions": [
+                1920,
+                1306
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bayar-simple-personal-banking-admin-dashboard-M22BDPM"
+        },
+        {
+            "filename": "feature-detail-icon-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/feature-detail-icon-02.png",
+            "templates": [
+                {
+                    "source": "templates\/04-product-detail.json",
+                    "name": "04-Product Detail"
+                }
+            ],
+            "filesize": 629,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "feature-detail-icon-01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/feature-detail-icon-01.png",
+            "templates": [
+                {
+                    "source": "templates\/04-product-detail.json",
+                    "name": "04-Product Detail"
+                }
+            ],
+            "filesize": 577,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "preview-all-dashboard.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/preview-all-dashboard-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/04-product-detail.json",
+                    "name": "04-Product Detail"
+                },
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                }
+            ],
+            "filesize": 91432,
+            "dimensions": [
+                1400,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bayar-simple-personal-banking-admin-dashboard-M22BDPM"
+        },
+        {
+            "filename": "dashboard-feature-1-v2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/dashboard-feature-1-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/04-product-detail.json",
+                    "name": "04-Product Detail"
+                }
+            ],
+            "filesize": 80061,
+            "dimensions": [
+                720,
+                407
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bayar-simple-personal-banking-admin-dashboard-M22BDPM"
+        },
+        {
+            "filename": "dashboard-feature-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/dashboard-feature-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/04-product-detail.json",
+                    "name": "04-Product Detail"
+                }
+            ],
+            "filesize": 68112,
+            "dimensions": [
+                720,
+                407
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bayar-simple-personal-banking-admin-dashboard-M22BDPM"
+        },
+        {
+            "filename": "product-icon-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/product-icon-03.png",
+            "templates": [
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 2416,
+            "dimensions": [
+                86,
+                86
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "Invoice.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/Invoice-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 66475,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bayar-simple-personal-banking-admin-dashboard-M22BDPM"
+        },
+        {
+            "filename": "product-icon-01-v2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/product-icon-01-v2.png",
+            "templates": [
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 2243,
+            "dimensions": [
+                86,
+                86
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "product-icon-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/product-icon-02.png",
+            "templates": [
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 1865,
+            "dimensions": [
+                86,
+                86
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "Card-Center.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/Card-Center-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 53143,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bayar-simple-personal-banking-admin-dashboard-M22BDPM"
+        },
+        {
+            "filename": "how-it-works-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/how-it-works-03.png",
+            "templates": [
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                }
+            ],
+            "filesize": 597,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "how-it-works-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/how-it-works-02.png",
+            "templates": [
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                }
+            ],
+            "filesize": 836,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "how-it-works-01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/how-it-works-01.png",
+            "templates": [
+                {
+                    "source": "templates\/03-products.json",
+                    "name": "03-Products"
+                }
+            ],
+            "filesize": 701,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "paycash-logomark-v2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/paycash-logomark-v2.png",
+            "templates": [
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                }
+            ],
+            "filesize": 31202,
+            "dimensions": [
+                202,
+                202
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/power-pay-app-thunder-letter-p-logo-template-9ES638U"
+        },
+        {
+            "filename": "world-dots.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/world-dots-800x776.png",
+            "templates": [
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                }
+            ],
+            "filesize": 140336,
+            "dimensions": [
+                958,
+                929
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/square-dotted-world-map-and-earth-globes-Q676QDA"
+        },
+        {
+            "filename": "Dashboard-v2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/Dashboard-v2-800x430.jpg",
+            "templates": [
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 77046,
+            "dimensions": [
+                1920,
+                1033
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bayar-simple-personal-banking-admin-dashboard-M22BDPM"
+        },
+        {
+            "filename": "company-value03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/company-value03.png",
+            "templates": [
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                }
+            ],
+            "filesize": 294,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "company-value02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/company-value02.png",
+            "templates": [
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                }
+            ],
+            "filesize": 328,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "company-value01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/company-value01.png",
+            "templates": [
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                }
+            ],
+            "filesize": 596,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "Business_Development.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/Business_Development.png",
+            "templates": [
+                {
+                    "source": "templates\/02-about-us.json",
+                    "name": "02-About Us"
+                }
+            ],
+            "filesize": 42551,
+            "dimensions": [
+                600,
+                589
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/finance-management-of-payment-service-company-UWDFZ7B"
+        },
+        {
+            "filename": "Earning-Source.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/Earning-Source.png",
+            "templates": [
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 5193,
+            "dimensions": [
+                403,
+                268
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bayar-simple-personal-banking-admin-dashboard-M22BDPM"
+        },
+        {
+            "filename": "bg-blur-tile.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/bg-blur-tile-800x602.png",
+            "templates": [
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 336413,
+            "dimensions": [
+                1024,
+                770
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "illustration-home-v5.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/illustration-home-v5-800x602.png",
+            "templates": [
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 74176,
+            "dimensions": [
+                1020,
+                767
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/finance-management-of-payment-service-company-UWDFZ7B"
+        },
+        {
+            "filename": "paycash-main-logo-dark.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/paycash-main-logo-dark.png",
+            "templates": [
+                {
+                    "source": "templates\/theme-builder-footer-elementor-pro-.json",
+                    "name": "Theme Builder - Footer (Elementor Pro)"
+                }
+            ],
+            "filesize": 6753,
+            "dimensions": [
+                300,
+                82
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/power-pay-app-thunder-letter-p-logo-template-9ES638U"
+        },
+        {
+            "filename": "google-play.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/google-play.png",
+            "templates": [
+                {
+                    "source": "templates\/theme-builder-footer-elementor-pro-.json",
+                    "name": "Theme Builder - Footer (Elementor Pro)"
+                }
+            ],
+            "filesize": 3278,
+            "dimensions": [
+                193,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/play.google.com\/intl\/en_us\/badges\/"
+        },
+        {
+            "filename": "app-store.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/paymentkit2\/wp-content\/uploads\/sites\/112\/2022\/11\/app-store.png",
+            "templates": [
+                {
+                    "source": "templates\/theme-builder-footer-elementor-pro-.json",
+                    "name": "Theme Builder - Footer (Elementor Pro)"
+                }
+            ],
+            "filesize": 1733,
+            "dimensions": [
+                189,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/developer.apple.com\/app-store\/marketing\/guidelines\/"
+        }
+    ]
+}

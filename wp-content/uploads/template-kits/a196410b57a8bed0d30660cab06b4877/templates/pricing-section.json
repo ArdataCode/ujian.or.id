@@ -1,0 +1,855 @@
+{
+    "version": "0.4",
+    "title": "Pricing Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-pricing",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "67495f",
+            "settings": {
+                "structure": "30",
+                "margin": {
+                    "unit": "px",
+                    "top": "153",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "24ce6a42",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 50,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "b522c6a",
+                            "settings": {
+                                "ekit_pricing_table_title": "Basic Plan",
+                                "ekit_pricing_table_subtitle": "Perfect for small brands",
+                                "ekit_pricing_currency_icon": "$",
+                                "ekit_pricing_table_price": "25.99",
+                                "ekit_pricing_table_duration": "\/ Month",
+                                "ekit_pricing_table_content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam",
+                                "ekit_pricing_table_content_repeater": [
+                                    {
+                                        "item": "15 Email Account",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "f20df21",
+                                        "ekit_pricing_list": "Unlimited Access Courses",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=secondary"
+                                        }
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "4b9c746",
+                                        "ekit_pricing_list": "Certificate After Completion",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=secondary"
+                                        }
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "High Resolution Videos",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=secondary"
+                                        },
+                                        "_id": "8d657ce"
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "24\/7 Dedicated Support",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=secondary"
+                                        },
+                                        "_id": "6ba24ac"
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "Interactive practice sessions",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=secondary"
+                                        },
+                                        "_id": "baab1f7"
+                                    }
+                                ],
+                                "ekit_pricing_btn_text": "BUY PLAN",
+                                "ekit_pricing_content_style": "list",
+                                "ekit_pricing_pricing_content_align": "left",
+                                "ekit_pricing_tag_bg_color_background": "classic",
+                                "ekit_pricing_btn_bg_color_group_background": "classic",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_pricing_tag_bg_color_color": "globals\/colors?id=84efb7c",
+                                    "ekit_pricing_tag_text_color": "globals\/colors?id=secondary",
+                                    "ekit_pricing_btn_bg_color_group_color": "globals\/colors?id=secondary",
+                                    "ekit_pricing_btn_bg_hover_color_group_color": "globals\/colors?id=secondary",
+                                    "ekit_pricing_title_typography_group_typography": "globals\/typography?id=0f7b8dd",
+                                    "ekit_pricing_period_text_color": "globals\/colors?id=primary",
+                                    "ekit_pricing_btn_typography_group_typography": "globals\/typography?id=27a847a",
+                                    "ekit_pricing_price_typography_group_typography": "globals\/typography?id=9afde37",
+                                    "ekit_pricing_period_typography_group_typography": "globals\/typography?id=40ac99e"
+                                },
+                                "ekit_pricing_btn_bg_hover_color_group_background": "classic",
+                                "ekit_pricing_text_padding": {
+                                    "unit": "px",
+                                    "top": "14",
+                                    "right": "35",
+                                    "bottom": "13",
+                                    "left": "35",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_btn_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_pricing_button_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_pricing_button_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 20,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.4)"
+                                },
+                                "ekit_pricing_title_wraper_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_tag_text_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_period_text_color": "#000000",
+                                "ekit_pricing_tag_text_color": "#1DA678",
+                                "ekit_pricing_tag_bg_color_color": "#02010100",
+                                "ekit_pricing_features_body_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_btn_typography_group_typography": "custom",
+                                "ekit_pricing_btn_typography_group_font_family": "Noto Sans HK",
+                                "ekit_pricing_btn_typography_group_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_pricing_btn_typography_group_font_weight": "700",
+                                "ekit_pricing_btn_typography_group_line_height": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_pricing_btn_typography_group_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_pricing_btn_bg_color_group_color": "#EF5743",
+                                "ekit_pricing_button_box_shadow_hover_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(238.99999999999997, 86.99999999999999, 66.99999999999997, 0.5)"
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "_box_shadow_box_shadow_type": "yes",
+                                "_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 20,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "ekit_pricing_icon_type": "icon",
+                                "ekit_pricing_icons__switch": "",
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-pricing",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "47c8a488",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 50,
+                        "margin": {
+                            "unit": "px",
+                            "top": "-43",
+                            "right": "5",
+                            "bottom": "0",
+                            "left": "5",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "46099f61",
+                            "settings": {
+                                "ekit_pricing_table_title": "Standard Plan",
+                                "ekit_pricing_table_subtitle": "Perfect for small brands",
+                                "ekit_pricing_currency_icon": "$",
+                                "ekit_pricing_table_price": "25.99",
+                                "ekit_pricing_table_duration": "\/ Month",
+                                "ekit_pricing_table_content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam",
+                                "ekit_pricing_table_content_repeater": [
+                                    {
+                                        "item": "15 Email Account",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "f20df21",
+                                        "ekit_pricing_list": "Unlimited Access Courses",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=1ad8f47"
+                                        }
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "4b9c746",
+                                        "ekit_pricing_list": "Certificate After Completion",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=1ad8f47"
+                                        }
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "High Resolution Videos",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=1ad8f47"
+                                        },
+                                        "_id": "8d657ce"
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "24\/7 Dedicated Support",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=1ad8f47"
+                                        },
+                                        "_id": "6ba24ac"
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "Interactive practice sessions",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=1ad8f47"
+                                        },
+                                        "_id": "baab1f7"
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "Lifetime Access All Courses",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=1ad8f47"
+                                        },
+                                        "_id": "a1f34b7"
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "Excercise Files & Notes",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=1ad8f47"
+                                        },
+                                        "_id": "a03b91e"
+                                    }
+                                ],
+                                "ekit_pricing_btn_text": "BUY PLAN",
+                                "ekit_pricing_content_style": "list",
+                                "ekit_pricing_pricing_content_align": "left",
+                                "ekit_pricing_tag_bg_color_background": "classic",
+                                "ekit_pricing_btn_bg_color_group_background": "classic",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_pricing_tag_bg_color_color": "globals\/colors?id=84efb7c",
+                                    "ekit_pricing_tag_text_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_pricing_btn_bg_color_group_color": "globals\/colors?id=1ad8f47",
+                                    "ekit_pricing_btn_bg_hover_color_group_color": "globals\/colors?id=secondary",
+                                    "ekit_pricing_title_typography_group_typography": "globals\/typography?id=0f7b8dd",
+                                    "ekit_pricing_period_text_color": "globals\/colors?id=primary",
+                                    "ekit_pricing_btn_typography_group_typography": "globals\/typography?id=27a847a",
+                                    "ekit_pricing_price_typography_group_typography": "globals\/typography?id=9afde37",
+                                    "ekit_pricing_period_typography_group_typography": "globals\/typography?id=40ac99e"
+                                },
+                                "ekit_pricing_text_padding": {
+                                    "unit": "px",
+                                    "top": "14",
+                                    "right": "35",
+                                    "bottom": "13",
+                                    "left": "35",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_btn_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_pricing_button_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_pricing_button_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 20,
+                                    "spread": 0,
+                                    "color": "rgba(238.99999999999997, 86.99999999999999, 66.99999999999997, 0.5)"
+                                },
+                                "ekit_pricing_title_wraper_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_tag_text_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_tag_text_color": "#EF5743",
+                                "ekit_pricing_tag_bg_color_color": "#02010100",
+                                "ekit_pricing_features_body_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_btn_bg_color_group_color": "#EF5743",
+                                "ekit_pricing_btn_bg_hover_color_group_color": "#1DA678",
+                                "ekit_pricing_button_box_shadow_hover_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 20,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.4)"
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "_box_shadow_box_shadow_type": "yes",
+                                "_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 20,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 100
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-pricing",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "2d56b69d",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 50,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "349d4c8e",
+                            "settings": {
+                                "ekit_pricing_table_title": "Premium Plan",
+                                "ekit_pricing_table_subtitle": "Perfect for small brands",
+                                "ekit_pricing_currency_icon": "$",
+                                "ekit_pricing_table_price": "25.99",
+                                "ekit_pricing_table_duration": "\/ Month",
+                                "ekit_pricing_table_content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam",
+                                "ekit_pricing_table_content_repeater": [
+                                    {
+                                        "item": "15 Email Account",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "f20df21",
+                                        "ekit_pricing_list": "Unlimited Access Courses",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=781f24d"
+                                        }
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "4b9c746",
+                                        "ekit_pricing_list": "Certificate After Completion",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=781f24d"
+                                        }
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "High Resolution Videos",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=781f24d"
+                                        },
+                                        "_id": "8d657ce"
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "24\/7 Dedicated Support",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=781f24d"
+                                        },
+                                        "_id": "6ba24ac"
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "Interactive practice sessions",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-arrow-right-circle",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": "globals\/colors?id=781f24d"
+                                        },
+                                        "_id": "baab1f7"
+                                    }
+                                ],
+                                "ekit_pricing_btn_text": "BUY PLAN",
+                                "ekit_pricing_content_style": "list",
+                                "ekit_pricing_pricing_content_align": "left",
+                                "ekit_pricing_tag_bg_color_background": "classic",
+                                "ekit_pricing_btn_bg_color_group_background": "classic",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_pricing_tag_bg_color_color": "globals\/colors?id=84efb7c",
+                                    "ekit_pricing_tag_text_color": "globals\/colors?id=781f24d",
+                                    "ekit_pricing_btn_bg_color_group_color": "globals\/colors?id=781f24d",
+                                    "ekit_pricing_btn_bg_hover_color_group_color": "globals\/colors?id=secondary",
+                                    "ekit_pricing_title_typography_group_typography": "globals\/typography?id=0f7b8dd",
+                                    "ekit_pricing_btn_typography_group_typography": "globals\/typography?id=27a847a",
+                                    "ekit_pricing_period_text_color": "globals\/colors?id=primary",
+                                    "ekit_pricing_btn_text_color": "",
+                                    "ekit_pricing_price_typography_group_typography": "globals\/typography?id=9afde37",
+                                    "ekit_pricing_period_typography_group_typography": "globals\/typography?id=40ac99e"
+                                },
+                                "ekit_pricing_text_padding": {
+                                    "unit": "px",
+                                    "top": "14",
+                                    "right": "35",
+                                    "bottom": "13",
+                                    "left": "35",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_btn_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_pricing_button_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_pricing_button_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 20,
+                                    "spread": 0,
+                                    "color": "rgba(241.99999999999997, 192.0000000000001, 41.999999999999986, 0.5)"
+                                },
+                                "ekit_pricing_title_wraper_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_tag_text_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_period_text_color": "#000000",
+                                "ekit_pricing_tag_text_color": "#F2C02A",
+                                "ekit_pricing_tag_bg_color_color": "#02010100",
+                                "ekit_pricing_features_body_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_btn_typography_group_typography": "custom",
+                                "ekit_pricing_btn_typography_group_font_family": "Noto Sans HK",
+                                "ekit_pricing_btn_typography_group_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_pricing_btn_typography_group_font_weight": "700",
+                                "ekit_pricing_btn_typography_group_line_height": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_pricing_btn_typography_group_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_pricing_btn_bg_color_group_color": "#F2C02A",
+                                "ekit_pricing_btn_bg_hover_color_group_color": "#1DA678",
+                                "ekit_pricing_button_box_shadow_hover_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 20,
+                                    "spread": 0,
+                                    "color": "rgba(28.99999999999999, 165.99999999999997, 119.99999999999989, 0.4)"
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "_box_shadow_box_shadow_type": "yes",
+                                "_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 20,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 200
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-pricing",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

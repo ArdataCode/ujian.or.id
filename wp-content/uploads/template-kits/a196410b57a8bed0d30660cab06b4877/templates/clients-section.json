@@ -1,0 +1,185 @@
+{
+    "version": "0.4",
+    "title": "Clients Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-clients",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "34537ac9",
+            "settings": {
+                "background_background": "classic",
+                "margin": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=e72a208"
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "0",
+                    "bottom": "25",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "ef928aa",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "6aca4e02",
+                            "settings": {
+                                "ekit_client_logo_repiter": [
+                                    {
+                                        "ekit_client_logo_list_title": "Logo 1",
+                                        "_id": "7039c2f",
+                                        "ekit_client_logo_image_normal": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_1.png",
+                                            "id": 826,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ekit_client_logo_enable_hover_logo": "yes",
+                                        "ekit_client_logo_image_hover": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_1_hover.png",
+                                            "id": 827,
+                                            "alt": "",
+                                            "source": "library"
+                                        }
+                                    },
+                                    {
+                                        "ekit_client_logo_list_title": "Logo 2",
+                                        "_id": "12cf688",
+                                        "ekit_client_logo_image_normal": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_2.png",
+                                            "id": 828,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ekit_client_logo_enable_hover_logo": "yes",
+                                        "ekit_client_logo_image_hover": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_2_hover.png",
+                                            "id": 829,
+                                            "alt": "",
+                                            "source": "library"
+                                        }
+                                    },
+                                    {
+                                        "ekit_client_logo_list_title": "Logo 3",
+                                        "_id": "09754d6",
+                                        "ekit_client_logo_image_normal": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_3.png",
+                                            "id": 830,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ekit_client_logo_enable_hover_logo": "yes",
+                                        "ekit_client_logo_image_hover": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_3_hover.png",
+                                            "id": 831,
+                                            "alt": "",
+                                            "source": "library"
+                                        }
+                                    },
+                                    {
+                                        "ekit_client_logo_list_title": "Logo 4",
+                                        "_id": "b7f01e6",
+                                        "ekit_client_logo_image_normal": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_4.png",
+                                            "id": 832,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ekit_client_logo_enable_hover_logo": "yes",
+                                        "ekit_client_logo_image_hover": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_4_hover.png",
+                                            "id": 833,
+                                            "alt": "",
+                                            "source": "library"
+                                        }
+                                    },
+                                    {
+                                        "ekit_client_logo_list_title": "Logo 5",
+                                        "_id": "69f9ab6",
+                                        "ekit_client_logo_image_normal": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_5.png",
+                                            "id": 834,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ekit_client_logo_enable_hover_logo": "yes",
+                                        "ekit_client_logo_image_hover": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_5_hover.png",
+                                            "id": 835,
+                                            "alt": "",
+                                            "source": "library"
+                                        }
+                                    },
+                                    {
+                                        "ekit_client_logo_list_title": "Logo 6",
+                                        "ekit_client_logo_image_normal": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_6.png",
+                                            "id": 836,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ekit_client_logo_enable_hover_logo": "yes",
+                                        "ekit_client_logo_image_hover": {
+                                            "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/11\/elegant-company-logo-VVLG4M3_6_hover.png",
+                                            "id": 837,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "5547e7f"
+                                    }
+                                ],
+                                "ekit_client_logo_slidetosho": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "ekit_client_logo_rows": "1",
+                                "ekit_client_logo_client_logo_background_group_background": "classic",
+                                "ekit_client_logo_image_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_client_logo_image_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(0,0,0,0.5)"
+                                },
+                                "__globals__": {
+                                    "ekit_client_logo_container_bg_color_color": "globals\/colors?id=84efb7c",
+                                    "ekit_client_logo_client_logo_background_group_color": "globals\/colors?id=84efb7c"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-client-logo",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

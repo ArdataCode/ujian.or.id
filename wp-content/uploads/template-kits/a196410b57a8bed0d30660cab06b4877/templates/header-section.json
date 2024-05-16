@@ -1,0 +1,237 @@
+{
+    "version": "0.4",
+    "title": "Header Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-header",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "66638e03",
+            "settings": {
+                "structure": "20",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "10",
+                    "right": "30",
+                    "bottom": "10",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=e72a208"
+                },
+                "animation": "fadeInDown"
+            },
+            "elements": [
+                {
+                    "id": "4c70e0d",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 20,
+                        "content_position": "center",
+                        "_inline_size_mobile": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "6a4cee28",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/flat-design-book-logo-pack.png",
+                                    "id": 19,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "align": "left",
+                                "link_to": "custom",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7a67f234",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 80,
+                        "content_position": "center",
+                        "align": "flex-end",
+                        "_inline_size_mobile": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "6844e89b",
+                            "settings": {
+                                "elementskit_nav_menu": "main-menu",
+                                "elementskit_nav_menu_logo": {
+                                    "url": "https:\/\/kinforce.net\/learen\/wp-content\/uploads\/2022\/08\/flat-design-book-logo-pack.png",
+                                    "id": 19,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "elementskit_hamburger_icon": {
+                                    "value": "icon icon-menu-9",
+                                    "library": "ekiticons"
+                                },
+                                "elementskit_submenu_container_width": "220px",
+                                "__globals__": {
+                                    "elementskit_content_typography_typography": "globals\/typography?id=40ac99e",
+                                    "elementskit_item_color_hover": "globals\/colors?id=secondary",
+                                    "elementskit_item_text_color_hover": "globals\/colors?id=secondary",
+                                    "elementskit_nav_sub_menu_active_text_color": "globals\/colors?id=secondary",
+                                    "elementskit_nav_menu_active_text_color": "globals\/colors?id=secondary",
+                                    "elementskit_submenu_container_background_color": "globals\/colors?id=d7fcd19",
+                                    "elementskit_menu_item_typography_typography": "globals\/typography?id=40ac99e",
+                                    "elementskit_menu_toggle_icon_color": "globals\/colors?id=d7fcd19",
+                                    "elementskit_menu_toggle_icon_color_hover": "globals\/colors?id=d7fcd19",
+                                    "elementskit_menu_close_icon_color": "globals\/colors?id=d7fcd19",
+                                    "elementskit_menu_close_icon_color_hover": "globals\/colors?id=d7fcd19",
+                                    "elementskit_menu_item_background_color": "globals\/colors?id=84efb7c",
+                                    "elementskit_nav_sub_menu_active_bg_color_color": "globals\/colors?id=84efb7c"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "25",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "ekit_submenu_indicator_spacing": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "6",
+                                    "isLinked": false
+                                },
+                                "elementskit_submenu_item_spacing": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "25",
+                                    "isLinked": false
+                                },
+                                "elementskit_menu_item_background_background": "classic",
+                                "elementskit_nav_sub_menu_active_bg_color_background": "classic",
+                                "elementskit_panel_submenu_border_border": "solid",
+                                "elementskit_panel_submenu_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "elementskit_submenu_container_background_background": "classic",
+                                "elementskit_menu_toggle_border_border": "solid",
+                                "elementskit_menu_toggle_border_width_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "elementskit_menu_close_border_border": "solid",
+                                "elementskit_menu_close_border_width_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "elementskit_mobile_menu_logo_width_tablet": {
+                                    "unit": "px",
+                                    "size": 141,
+                                    "sizes": []
+                                },
+                                "elementskit_mobile_menu_logo_height_tablet": {
+                                    "unit": "px",
+                                    "size": 42,
+                                    "sizes": []
+                                },
+                                "elementskit_mobile_menu_logo_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "10",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "ekit-nav-menu",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "19fd56b",
+                            "settings": {
+                                "text": "Get A Quote",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=1ad8f47",
+                                    "typography_typography": "globals\/typography?id=6d8271a",
+                                    "button_background_hover_color": "globals\/colors?id=secondary"
+                                },
+                                "align": "left",
+                                "button_box_shadow_box_shadow_type": "yes",
+                                "button_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(0,0,0,0.5)"
+                                },
+                                "_element_width": "auto",
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "7",
+                                    "right": "25",
+                                    "bottom": "6",
+                                    "left": "25",
+                                    "isLinked": false
+                                },
+                                "hide_mobile": "hidden-mobile"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
